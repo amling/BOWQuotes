@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/usr/bin/git fetch 1>/dev/null 2>/dev/null
+/usr/bin/git merge origin/master master --ff-only 1>/dev/null 2>/dev/null
+/usr/bin/strfile /home/bernard/BOWQuotes/quotes.txt 1>/dev/null 2>/dev/null
+echo "Your Daily Quote Dosage!"
+echo ""
+/usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
