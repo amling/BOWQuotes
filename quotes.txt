@@ -1,0 +1,3615 @@
+I'm looking for a hackier way to do this.
+-kaloyan@
+%
+Help builder works as designed, it was just designed poorly.
+-kurtisn@
+%
+So we're good. It will just go into the NPI black hole.
+-ericy@
+%
+Do you think we could break it any worse than it is right now?
+-kennyri@
+%
+Just make sure you come in on fumes on June 1st.
+-anonymous
+%
+If you kill the supervisors, they'll just get resurrected.
+-mbradwin@
+%
+Yep, I understand. Poor campaigns, they never had a chance...  I will rebuild them with the lists Scott Fasser is now sending me.  It will be, in my own small way, Episode II, Attack of the Clones.
+-alant@
+%
+She has all her own ideas.  I hate that.
+-sousa@
+%
+I take the blame...maybe.
+-ericy@
+%
+That opens up a rat's nest of worms.
+-hanks@
+%
+I guess it should be fixed if it's wrong.
+-ericy@
+%
+I'd hate to make a promise, but we might be able to have something soon.
+-tvv@
+%
+I have a hack, which may be our solution.
+-tvv@
+%
+It's almost kinda working.
+-tvv@
+%
+That's bad.  That didn't work at all.
+-jstinson@
+%
+It's fine as long as you don't load rules.
+-tvv@
+%
+Please be clear.  Are you concerned that the customers are confused, or that they are being misled?  The former is an issue.  The latter is a business decision.
+-dons@
+%
+I feel like Cu Chulainn, the heroic figure out of Irish mythology, contending with the sea, armed only with a sword...
+-bobn@
+%
+There's nothing to worry about.  Preview is, in fact, broken.
+-mlg@
+%
+We'll just never crash.
+-aprater@
+%
+We've got a bug.  Not a bug - a logic issue.
+-ericy@
+%
+I'm like a wedgie.
+-joelw@
+%
+The business people said yeah.  And they told the engineering people and they said NO.  So of course we're doing it.
+-hanks@
+%
+If it's not a problem, it's not a problem.  But if it is a problem, it is.
+-jashaw@
+%
+No.  Yes.  What you're saying is not true.
+-jstinson@
+%
+Now I'm dangerous.
+-aprater@
+%
+Brazil?  What's that?
+-newton@
+%
+"We" being "you".
+-ericy@
+%
+Let's hope we finally knocked the last head off this hydra.
+-jashaw@
+%
+It'll be interesting to see what will happen.  Is a fatal going to be okay?
+-barrette@
+%
+That's correct, you made no such promises.  I just pulled that one out of the air.
+-joelw@
+%
+Gurupa was a mess getting set up.  It lies to you.
+-aprater@
+%
+Let's just hope that we can make it.
+-ericy@
+%
+Oh my goodness.  We've got problems.
+-ericy@
+%
+Devo is still evil.
+-atiya@
+%
+We should really get to a point where things aren't going wrong.
+-ericy@
+%
+Is this "rip off the intern" or something?
+-kasheff@
+%
+There is monkey butt involved.
+-shprice@
+%
+I have to reply?  I figured I'd just show up.
+-kasheff@
+%
+Fuck Canada!
+-shprice@
+%
+You're a lot closer to Australia [in Seattle] than you are in New York.
+-olke@
+%
+This is no longer a workaround, it's now a hack.
+-tvv@
+%
+This is Amazon.  You guys have a great site.  You must know what you're doing.
+-jonpr@
+%
+If I knew what I was doing, it would probably be pretty easy.
+-tvv@
+%
+It was all working fast until I changed my query to be the right thing.
+-rcottrel@
+%
+Suppose DoIt wants to do his own DoIt and his parent's DoIt.
+-aprater@
+%
+It's kinda freaky - it works.
+-tvv@
+%
+Somebody's going to get canned for this.
+-olke@
+%
+[What are they going to do when you go on vacation?]  Who cares?
+-aprater@
+%
+I've been working, but there are bugs left and right.
+-kasheff@
+%
+There's almost always poo involved.
+-chriswu@
+%
+And by "we", I mean not me.
+-qhunt@
+%
+Sometimes you just have too many toys.
+-aprater@
+%
+You like veggie stuff.  Like fish.
+-sousa@
+%
+We're targeting virgin customers.
+-sousa@
+%
+Gurupa will save us.
+-mround@
+%
+This will work until we have more than one box.
+-aprater@
+%
+Fucking fuck.  That's a problem.
+-aprater@
+%
+Just be the root, be the root, be the root. You're not being the root.
+-bmilnes@
+%
+It's small in the scale of things.  I guess it's just a dinghy off the Titanic.
+-tvv@
+%
+By July 1st we should be able to say "we're screwed".
+-ericy@
+%
+You're saying "no", but you mean "yes".
+-qhunt@
+%
+Yes.  Hack it up.
+-aagrawal@
+%
+I can make things go 33% faster by doing 2/3 the work.
+-jamlong@
+%
+I'm going to have to say "no".  Thanks.
+-tvv@
+%
+Oh really?  What is that thing?  I get a lot of emails from it.
+-tvv@
+%
+That's a good pizza thing to do.  The business people will decide.
+-kasheff@
+%
+I'll deny all of this if it ever comes up.
+-sousa@
+%
+The beer was still cold, so it wasn't a tragedy.
+-mlg@
+%
+It's that bug again.  That's awesome!
+-ericy@
+%
+I just went into my Gold Box, and the experience was definitely suboptimal.
+-utter@
+%
+This is definitely not very good.
+-jstinson@
+%
+Those are the ones we're seeing all the time and they're looking really crappy.
+-utter@
+%
+Oh! Oh! Oh! . . . No.  That's not it.
+-mlg@
+%
+This newest stuff is just shit.
+-mlg@
+%
+You just shove a can of beer up the butt of a whole chicken.
+-mlg@
+%
+That's 'cause he's a dick.
+-sousa@
+%
+I'm hoping everything will click on Monday and I'll know what to do.
+-kasheff@
+%
+PERL is a write-only language.
+-tvv@
+%
+You're not coming back, are you?
+-jamlong@
+%
+Why does the ocean roar?  You'd roar too if you had crabs on your bottom.
+-random guy on the street
+%
+There is so much to do on this project that being blocked by anything is not one of my concerns.
+-rcottrel@
+%
+That's my car.
+-ericy@ upon hearing a crash and looking out the window
+%
+Just tell me what I'm supposed to do today.
+-mlg@
+%
+It did a lot of weird things.  I won't talk about those here.
+-olke@
+%
+It might make them cry.
+-mlg@
+%
+I know nothing.
+-jeremy@
+%
+We don't want to build the expectation in the customer base that they can control their destiny.
+-utter@
+%
+I'm not sure if I'm helping or hurting when I talk.
+-holden@
+%
+30 is smaller than 1000.
+-holden@
+%
+You can always blame the intern.
+-mlg@
+%
+I'm going to pre-pone my departure from Amazon.
+-barbaran@
+%
+Between you being so relaxed and the entire EMS team being down at Pyramid, I'm beginning to wonder if I should have quit.
+-tvv@
+%
+I think we might be in deep trouble.
+-mlg@
+%
+I wasn't planning to submit a buildable version.
+-mlg@
+%
+I'm beginning to hate South America.
+-mlg@
+%
+Don't fuck with Price.  She'll get ya.
+-shprice@
+%
+Eric said I tried hard enough and I can go home.
+-olke@
+%
+That's why I'm so screwed.
+-qhunt@
+%
+We need King of the Hill for quotes.
+-tvv@
+%
+At the moment, I'm actually working.
+-mlg@
+%
+Really?!?  I ought to look up more often.
+-kasheff@
+%
+I had that thought this morning when I walked into a tree.
+-mlg@
+%
+I'd be more than happy to work in PERL, but for the record, I hate it.
+-kasheff@
+%
+I wish for it to be done today, but that's not happening.
+-kasheff@
+%
+I don't know if I've even logged in yet.
+-barbaran@ [at 4:48PM on a Tuesday]
+%
+I'm going to sign off before I go into full rant mode and start frothing at the mouth.  This whole thing really pissed me off.
+-dougb@
+%
+The good thing is it's written in PERL, which is a very self-documenting language.
+-hanks@
+%
+We actually mean like a real person, not a customer.
+-anonymous voice over conference call
+%
+. . . worked perfectly up until I realized it had a bug.
+-qhunt@
+%
+[How are we getting two?]  You're getting it because it's three minus one.
+-mlg@
+%
+I don't want anything to fall through the cracks, but this was supposed to launch May 16th.
+-amyl@ on July 25th
+%
+Why calling this method isn't coughing up a smurf is a puzzle.
+-jfew@
+%
+I hate it when there are bugs in programs.
+-barbaran@
+%
+He might be a vice president, but he's a friggin' bozo.
+-anonymous
+%
+You can just pretend I'm not delusional for a second.
+-rdicker@
+%
+I would bend over for $100. . . . I don't know what I'd do for $100.
+-mpeek@
+%
+I was more innocent then.
+-hanks@
+%
+Unfortunately it looks like her code's pretty good.
+-jamlong@
+%
+I thought it was touching that you actually care.
+-tvv@
+%
+It's unfortunate that we actually finished it.
+-rcottrel@
+%
+My world is crumbling.
+-ericy@
+%
+Wow.  We're gonna get busted for that.
+-ericy@
+%
+Once we get it out there, we can start putting out fires.
+-ericy@
+%
+There's about a half percent chance this will actually work.
+-ericy@
+%
+We should only be checking in code that works.
+-dtreder@
+%
+What are you doing at my meeting?
+-ingalls@
+%
+It's not good enough just to be [ericy].
+-dtreder@
+%
+Some people develop software for the live site as well, not just for developer desktops.
+-dtreder@
+%
+We need at least one, definitely two.
+-ericy@
+%
+Basically we told them that they can go to hell with the software freeze.
+-anonymous
+%
+As soon as [my manager] develops a line of code, then [his/her] sign-off is okay with me.
+-anonymous
+%
+I just hate this Amazon code.  I can't figure out how anything works.
+-rcottrel@
+%
+Well, no, it'll never make sense.
+-rcottrel@
+%
+I'm gonna get busted for that quote.
+-ericy@
+%
+It has to be fine, so I'm sure it'll be fine.
+-sstarmer@
+%
+I'm surprised, really, any of it works.
+-mookie@
+%
+They're pretty corrupt down there, which is good.
+-ericy@
+%
+Wow.  I have no idea what you're talking about.
+-dtreder@
+%
+It might touch you is what I'm afraid of.
+-mlg@
+%
+If something happens, we'll be screwed.
+-opalka@
+%
+I should quit more jobs.
+-mookie@
+%
+Think about all of the great food products that are made out of people.
+-julesg@
+%
+Try to forget for the moment that I like to eat people.
+-julesg@
+%
+Is Maria Spanish for Maria?
+-dougb@
+%
+Wake up and smell the coffee.  Who the fuck cares?
+-opalka@
+%
+It was worse than being home [in Europe].
+-opalka@
+%
+I knew I hated that job, and after six years I quit.
+-opalka@
+%
+When you click here . . . uh oh.
+-ekenny@
+%
+Sorry for the incontinence.
+-lmoul@
+%
+I've been working for ten minutes.  That's too long.
+-namkung@
+%
+Let's see if we can blow up something.
+-joelg@
+%
+It's just so wrong.
+-ericy@
+%
+I can't believe that we, as a company, tolerate this.
+-ericy@
+%
+Oh God, no!
+-ryank@
+%
+We basically got really frustrated and was like "screw this."
+-dougb@
+%
+Someone needs more coffee and less beer, and that would be me.
+-jeffc@
+%
+If everything else breaks, but your stuff works, your mission was successful.
+-ericy@
+%
+I'll just be Huat all day long.
+-namkung@
+%
+[The Target contract with Amazon.com] is kinda like the Bible.
+-ericy@
+%
+When in doubt, killall rvd.
+-ericy@
+%
+If I slept eight hours a night, I'd be really boring.
+-dougb@
+%
+[I got 286 out of 287.]  That's perfect!
+-ericy@
+%
+I'm just getting violated by the Change Management team.
+-ericy@
+%
+Sleep will be a luxury.
+-wilke@
+%
+What a nested web we live in.
+-ericy@
+%
+We don't need a manager.  We just need a calendar.
+-namkung@
+%
+I think Invitation Model is okay, except that I think it's not working.
+-namkung@
+%
+I'm starting to have anger issues here.
+-dougb@
+%
+CGIs are nasty.  They're so, like, 1995.
+-rcottrel@
+%
+I gotta quit running sudo.
+-dougb@
+%
+I'm poor, but I'm easy.
+-namkung@
+%
+I'm very confident that I've done nothing.
+-tvv@
+%
+What are you doing with that knife?
+-namkung@ to mlg@
+%
+Is there a better way to debug this than speculating?
+-peddy@
+%
+That really takes a special conversation.
+-amyl@
+%
+I hate everything.
+-namkung@
+%
+There's different degrees of done.
+-ingalls@
+%
+I want gurupa to core dump.
+-ericy@
+%
+In some cultures, "cozy" is a very masculine attribute.
+-julesg@
+%
+If he's not already there, I guess he's just un-insane-able.
+-newton@
+%
+Virginia will kick in, right?
+-mlg@
+%
+We're all about the short term.  Hack it up.
+-ericy@
+%
+Just tell me what to do, and I'll make sure I break the site.
+-ingalls@
+%
+It succeeded.  That's weird.  I guess that's what you get when you pair on something.
+-dtreder@
+%
+If I'm not giving people grief because I'm paging or calling or sending tickets, that's wrong.
+-ingalls@
+%
+We're not gonna do any solution we don't want.
+-ingalls@
+%
+Paul is like the abusive father that I never had.
+-cooljames@
+%
+The case has been made that we need QA before launch.
+-ericy@
+%
+What we have here is an object lesson in how not to release software.
+-bradrob@
+%
+I am not sure what the problem is, but I will fix it.
+-bill@
+%
+Yeah, we could try that out on devo, couldn't we?
+-julesg@
+%
+Rainier is not down.  It's just a big mess.
+-amyl@
+%
+I quit!
+-mlg@
+%
+You should run away.
+-ericy@
+%
+Look at you with your spreadsheets.  You're hilarious.
+-janedoe@
+%
+Our bugs are not that extreme.  They're only extreme when you have an extreme person representing them.
+-amyl@
+%
+I have an urgent update about apparel - I hate this project!
+-amyl@
+%
+I'm uncomfortable.  Can we move on to the next question?
+-Unsuccessful Interview Candidate
+%
+Every day working with the Rainier team is like sunshine.
+-fsukhenk@
+%
+I think every time somebody doesn't do something according to the standards, we should shoot them.
+-dtreder@
+%
+DBAs are gonna like pee on them.  It's an awful idea.
+-aedelman@
+%
+It's the kind of thing that makes you want to get into agriculture or something.
+-newton@
+%
+I need to find what the official pronunciation [of my last name] is.
+-rcottrel@
+%
+We are so not hiring that guy.
+-mlg@
+%
+Wow.  It built.
+-paul@
+%
+It seems like copy-editors would want to keep their jobs.
+-amyl@
+%
+It's like the U.N. around here!
+-namkung@
+%
+Could someone just go out and shoot Larry Wall please.
+-paul@
+%
+We can test it later.  We'll assume it works now.
+-mlg@
+%
+This wasn't a "fix everything that's wrong with NBA storefront" ticket.
+-jcrowley@
+%
+I don't think you're one of my favorite people.
+-namkung@ to mlg@
+%
+I'll work with you and we'll make sure the test doesn't work.
+-ericy@
+%
+How do you break the mainline without doing something stupid?
+-jbaer@
+%
+Hey, "Japanese" isn't Japanese for 'Japanese'.
+-namkung@
+%
+"On-call intern."  Those are some of the best words I've ever heard.
+-ericy@
+%
+I'm starting to care less and less about [my senior VP] all the time.
+-anonymous
+%
+Gosh, it's a good thing no one uses this documentation.
+-jkuyken@
+%
+As long as you know the URL you want to go to, you don't need the nav.
+-namkung@
+%
+Well, if we don't have cake, I guess we can't have cake.
+-namkung@
+%
+It's not working, but I'm not sure it's broken.
+-jkuyken@
+%
+They're less than everyday people.
+-ericy@
+%
+I'm almost Ryan.
+-namkung@
+%
+I'm really just into hacking at this point.
+-rcarter@
+%
+Who is that guy anyway?  I've been meaning to find out.  I always hear his name.
+-rcarter@
+%
+Call me "Pancakes".
+-mlg@
+%
+When you said the best thing for me to do was just use gurupa tip, what did you mean by "best"?
+-swartz@
+%
+On a scale of 1 to 10, this is really bad.
+-jstinson@
+%
+It's Standards. Use it however you want.
+-julesg@
+%
+Clean-up is not in our nature.
+-gehman@
+%
+He's a nice guy, but I'm avoiding him.  We have to end this.
+-swartz@
+%
+I've been trying to kill lizard.
+-daleb@
+%
+We don't support time traveling. But Mike's working on it.
+-ericy@
+%
+It's PERL, so it's not that much code.
+-swartz@
+%
+That's why I always use a sniper.
+-daleb@
+%
+I get four sev 2's a day. Have him talk to me and I'll give him a sev 2.
+-ericy@
+%
+Why a hack? Can't we do it at least somewhat the right way?
+-mhewner@
+%
+[I need a functional spec, a one pager, test cases ...]
+We have a wiki doc. That's about all we've got.
+-ericy@
+%
+Is this cake designed to look like it's melting?
+-lim@
+%
+You caught me just in time . . . putting away the voodoo dolls and needles.
+-brettg@
+%
+Well, I can't prove that we're behind schedule.
+-whyte@
+%
+There's something evil going on.
+-dougb@
+%
+Once [name of project] gets deployed to production, do you just want to blow off the rest of the day?
+-overheard
+%
+They've been dreaming about that and in the last week it's become a hot dream.
+-ericy@
+%
+Before I came here, our website was never down.
+-ozgun@
+%
+Who invented time?
+-namkung@
+%
+What sport is that?  Horse boxing?
+-swartz@
+%
+Most things that start with Maria end up being a wild time.
+-iyer@
+%
+That redefines "sev-0".
+-ericy@
+%
+Gorillafied Brazupa.
+-daleb@
+%
+Call it "whore" for now.
+-iyer@
+%
+It's funny when people get hit in the ass.
+-iyer@
+%
+I need some good, clean quotes on that quote list.
+-iyer@
+%
+Can we just start a wiki node?
+-pohlhaut@ (after a little too much of a thread on cpp@)
+%
+I'm 43% sure I wasn't intoxicated when I wrote that original email.
+-jroche@
+%
+if devo is flaky and you can't work, email partner-dev@ and the sheriff will send her posse after the durn varmints who blocked you from doing work.
+-aedelman@
+%
+I think that we're signing up for a lot of pain.
+-aedelman@
+%
+Well I don't really care about the retail site.
+-anonymous
+%
+We write code, we don't support it.
+-anonymous
+%
+It's still in the pipe dream stage.
+-ericy@
+%
+I didn't actually test it.  I didn't have time. But I'm sure it's going to work. 
+-ozgun@
+%
+I'm trying to determine if it really is a bug or if it's a misunderstanding.
+-mikej@
+%
+And the default default is the word "default".
+-dtreder@
+%
+I'm hoping for a sev-0.
+-mlg@
+%
+It's your idea, so I don't mind causing you pain.
+-nicolino@
+%
+That's going to be pending for the rest of our lives.
+-mlg@
+%
+I was vegetarian all last week.
+-lim@
+%
+PERL is, like, utter kitchen sink.
+-swartz@
+%
+A tux is like a suit.  It inherits from suit.
+-mlg@
+%
+Am I just going nuts?
+-mhewner@
+%
+Sev-1: can't find the cake.
+-ericy@
+%
+Leave it alone till it dies.
+-mlg@
+%
+Just put up "Gone Fishing" and call me in the morning.
+-nicolino@
+%
+This is like heaven because there are donuts.
+-aedelman@
+%
+[It's not just candy, it's justice.]  That's the sweetest candy of all.
+-jsandb@
+%
+I gotta stop talking.
+-dougb@
+%
+What city is the Saint Louis Arch in?
+-dougb@
+%
+"Swartz, get your ass down here!"
+-swartz@
+%
+Slashdot has hate mail?
+-pohlhaut@
+%
+Use me as your stick.
+-cyrusk@
+%
+That's the kind of thing you have to wait for your husband to get back into town to try.
+-namkung@
+%
+I'm raising the bar on non-productivity.
+-mikej@
+%
+You're not pushing anything live until I have confidence in your team's ability to build, write and deploy software.
+-anonymous to anonymous
+%
+Should I torture myself?
+-namkung@
+%
+Do you wanna take a wild guess as to how I feel about that?
+-jocelynm@
+%
+It's a high priority because I said it was already done.
+-ericy@
+%
+I'm not going to ask, I'm just going to wait for the sev-2 to roll in.
+-ericy@
+%
+I would like to be Little Miss Scatterbrain.
+-iyer@
+%
+"Like" is a charitable term that I tend to avoid using to refer to Windows.
+-mikej@
+%
+The bleeding will eventually stop.  One way or another.
+-katiev@'s whiteboard
+%
+There's a lot of miscommunication on this, like, none at all.
+-anonymous
+%
+The call's performance was really good until recently when it was fixed.
+-swindsor@
+%
+I just thought I'd call you to see if you had any sort of brilliant ideas, but I didn't think you would.
+-mhewner@
+%
+Things are worst.
+-earlb@
+%
+You have to listen!  It's a story.
+-iyer@, about the protocol of a stand-up meeting
+%
+I'm totally gonna buy that, and scale PacMed.
+-Owen Hay, referring to http://www.amazon.com/o/asin/B0000X0534/
+%
+The chances that they are going to get approved to deploy to retail are basically 0%.  Or less.
+-ericy@
+%
+The more outages, the better.
+-swartz@
+%
+My life's a living hell again.
+-jkuyken@
+%
+That's not even a horrible idea.
+-ericy@
+%
+All these tickets came to us, but I can't remember fixing anything.
+-ericy@
+%
+I haven't really had a working desktop yet.
+-jbaer@
+%
+Don't you sometimes wish we had like a gurupa bitch?
+-iyer@
+%
+Yay hacking.
+-iyer@
+%
+XDQ stands for DQ with an X in front.
+-ajit@
+%
+One guy is more equal than the others.
+-ajit@
+%
+And you're still sucking the butt.
+-iyer@
+%
+The monkey tea tastes like monkeys.
+-pohlhaut@
+%
+Okay, that's a real problem, so we're not going to fix it.
+-ericy@
+%
+We should reward good deeds by getting quotes taken off the list.
+-iyer@
+%
+Dale, it's broken.  Why?  Fuck you!
+-daleb@
+%
+That's scary, but the good news is Thursday morning, first thing, I catch a plane.
+-ericy@
+%
+afunctorsayswhat?
+-mlg@
+%
+It's like a meeting, but it's actually a date.
+-namkung@
+%
+The e-mail address when that happens is page-cbell.
+-unknown source; overheard outside US1.
+%
+There was a time I thought I understood c++.
+-mhewner@
+%
+I have a question.  Why aren't we holding this meeting in the elevator?
+-mlg@
+%
+Java is ruining this country.
+-hudson@
+%
+I don't know what to say except "holy crap, this is a big problem."
+-mhewner@
+%
+I'm sort of a Friendster stalker.  I'm not a Friendster whore!
+-iyer@
+%
+I don't want to put my favorite books and movies up [on my Friendster profile] because they're all dirty.
+-namkung@
+%
+What's bad about the devil?
+-ericy@
+%
+When I said [it should be owned] 'by them or by us', I meant 'by them'.
+-namkung@
+%
+2004 is the year of the fire drill.
+-ericy@
+%
+I'd just like to say that I am not tingling.
+-nicolino@
+%
+I wasn't actually thinking.  I was just typing.
+-mlg@
+%
+Ouch. That sounds like a hack.
+-mlg@
+%
+You know, tea is a lot better for a cough than Dr. Pepper.
+-iyer@
+%
+People assume we wouldn't be such dicks. But they're wrong.
+-mlg@
+%
+Let's head down [to the cafeteria].  It's getting nooner and nooner the longer we wait.
+-mhewner@
+%
+You know what, I'm going to get them. I've punched that monkey a million times and I still haven't gotten any money.
+-swindsor@
+%
+He did so badly on this question that I started to wonder if there shouldn't be a vote beyond "Strong No Hire", something like "Call Security". 
+-anonymous interviewer
+%
+If you have anything you'd be willing to whore out, do let me know.
+-lim@
+%
+Friday hours don't count.  They're like Monday hours.
+-mlg@
+%
+Actually, we just brought you here to lynch you.
+-julesg@
+%
+Speak now or hold your breath.
+-shabbir@
+%
+That's your objective - just get this stuff as screwed up as possible.
+-julesg@
+%
+Hi, I'm Vidya, like 'Nvidia,' but without the 'N'.
+-iyer@
+%
+Smallpox - that character building disease.
+-mhewner@
+%
+I like when Paul Nordstrom doesn't yell at us.
+-anonymous
+%
+It makes it easy for me to know what I'm going to get yelled at for.
+-ericy@
+%
+Right now I have a stick, and I'm not afraid to use it.
+-cyrusk@
+%
+That's why I put the 'duh' button right here.  That's what you push when your computer's being stupid.
+-dtreder@
+%
+I'll set it to a hundred days, which is the same as fifty.
+-namkung@
+%
+That's what I am ... entertainment!
+-iyer@
+%
+I'm very shiny.
+-mlg@
+%
+It's good to know the future exists, I just hope it works.
+-ericy@
+%
+We're taking the solution out of resolution.
+-mcclinto@
+%
+Wow.  I feel like a girl.
+-lim@
+%
+I tell a lot of lies, so I can't keep track.
+-namkung@
+%
+Yeah, I said it was code complete. You know I lie.
+-anonymous
+%
+I followed the instructions.  That may have been my problem.
+-joelg@
+%
+I thought I sneezed and hurt myself.
+-nicolino@
+%
+I got this mug to kick your mug's ass.
+-lim@
+%
+When I start my own company, all the chocolate will be free.
+-lim@
+%
+If you send in 4 rows, it'll be almost instantaneous.  If you send in 4000 rows, it'll be instantaneous times 1000.
+-cooljames@
+%
+It was all going so well until it stopped going well.
+-namkung@
+%
+I can't quite spell the sound I'm making right now.  It's kind of like "gkkahhkksjaklaklankkk".
+-bradm@
+%
+I'd like to say that I didn't do that, but there's an entirely good possibility that I did.
+-owenhay@
+%
+It's too hard for the technical people to think logically.
+-dnguyen@
+%
+It offends me to do any more work than I have to.
+-nicolino@
+%
+It offends me to see this kind of useless crap in code.
+-mhewner@
+%
+You've been here longer, so your cynicism is more well-founded.
+-overheard
+%
+The Single Global Platform has become more real than it was three years ago.  [laughter from audience]  Note I didn't say "real"; I said "*more* real."
+-cyrusk@
+%
+Anything's possible with software engineers.
+-ericy@
+%
+Tell him it's working.  I'm going home.
+-mhewner@
+%
+Obidos builds are now owned by my team, WOE.
+-jkimble@
+%
+That's the crack talking.
+-iyer@
+%
+I have no idea what's going on.  English is my first language.
+-gspils@
+%
+It's gurupa kung-fu.
+-ingalls@
+%
+Everything was going real smooth until the data center caught fire.
+-rizvi@
+%
+Everything's better with a monkey.
+-newton@
+%
+Is master still abusing you?
+-ericy@
+%
+Buffalo's cards are chocolatey.  Mine are eyebally.
+-namkung@
+%
+Let me quote myself: "I am actively working it."  What more do you want?
+-denrober@
+%
+I was totally lying, but I thought I'd move the meeting ahead.
+-alanb@
+%
+Hack it more!
+-ericy@
+%
+We're trying to launch it, not QA it.
+-person on concall
+%
+You wear latex gloves when you do it with comic books.
+-mlg@
+%
+Will people still bring the food to where I'm sitting?
+-iyer@
+%
+They'll cede to my demands in time.
+-mhewner@
+%
+I think it's the wrong decision, but go for it!
+-ericy@
+%
+How could you double zero?
+-iyer@
+%
+I'm hoping that you don't change your requirements before I get off the project.
+-bhanoo@
+%
+If we told 'em it'd be just temporary, then maybe they'd fall for it.
+-namkung@
+%
+I'm going to write a book called "Battles I've lost".
+-ericy@
+%
+Now that I understand the intricacies of how the graph abominations are created, I'm going to work on automating them.
+-mhewner@
+%
+I'm not cynical, exactly, just jaded.
+-cgroom@
+%
+Yep, that code was unfathomably stupid, thanks for bringing it up again.
+-gehman@
+%
+I like my job.  I don't have to talk to people.
+-namkung@
+%
+I thrive on chaos, so I'm looking forward to it.
+-ericy@
+%
+Yes, this is the vision, and the vision is wrong.
+-lamont@
+%
+Didn't mean to scare the buffalo.
+-ericy@
+%
+How I love sudo.
+-guido@
+%
+I tried to explain to her that she didn't answer my question, and that's why I had to hit her.
+-namkung@
+%
+It wasn't painful at all, it just hit my skull.
+-jkuyken@
+%
+We have QA officially assigned to our team, but they're not going to find bugs.
+-anonymous
+%
+When in doubt, choose the course that is least likely to get us sued.
+-overheard
+%
+This question is for Owen because he's the most hackerish.
+-iyer@
+%
+I could dance it out, but I'd have to take off my pants, and that wouldn't be good.
+-namkung@
+%
+I think I've given up my diet for Lent.
+-namkung@
+%
+So how do we switch over to hourly pay?
+-earlb@, 4:28am Sunday morning
+%
+I migrated all of Amazon.com's image infrastructure to Virginia, got 65 sev-2's, and three sev-1's, and all I got was this lousy t-shirt.
+-dougb@
+%
+I'm going to write a perl script to replace half of our VPs.
+-anonymous
+%
+Do it until you fatal.
+-iyer@
+%
+It's confirmed.  IAD2 is a piece of crap.
+-mlg@
+%
+We know enough now to actually be dangerous.
+-ericy@
+%
+Hopefully partner-svcsmst-101 will have the grace to stay dead this time.
+-mtoulou@
+%
+Let's not be a dumbass for another day now.
+-iyer@
+%
+Root cause: shit happens.  Movin' on.
+-ericy@
+%
+I really would like to be a french fry ... I like potatoes. But I wouldn't want to have too much salt on me.
+-mlg@
+%
+"Diff and deploy" -- that's our operating procedure around here. And the diff part's optional.
+-anonymous
+%
+I think Seattle, a.k.a. "hell", is freezing over.
+-fsukhenk@
+%
+Today has just been one big Dilbert.
+-nicolino@
+%
+master-app-102 is on a truck somewhere in Idaho--I can't bring it back up.
+-trey@
+%
+You think he's misbehaving.  You kill him.
+-hallc@
+%
+That may be an older cake stain.
+-mhewner@
+%
+Can I borrow something squishy?
+-bbender@
+%
+I think I've seen enough that I don't care anymore.
+-mlg@
+%
+Hah!  Fuck!  I am so quitting this job.  Agh.
+-mlg@
+%
+Excellent. I hate it when we go in there and he's still cold.
+-mlg@
+%
+The website is down.  Is that expected behavior?
+-anonymous
+%
+My life is a recursive stream of tickets.
+-owenhay@
+%
+If he doesn't finish this today that would be galactically bad.
+-nicolino@
+%
+If I were it, I would glow in the dark.
+-mlg@
+%
+I'm just expecting to be in Vegas and run into them.  Like I ran into Doug Beaver, but they'll be wearing pants.
+-iyer@
+%
+Boyfriends are so nice, even when they're not yours.
+-iyer@
+%
+Since they're not doing gurupa, they should find other ways to serve us now.
+-iyer@
+%
+I don't like humans.
+-mlg@
+%
+Retirement, to me, is being at Amazon the rest of my life.
+-dougb@
+%
+People who can't eat cheese shouldn't be allowed to reproduce.
+-mlg@
+%
+I'm like big brother, but I'm a girl.
+-iyer@
+%
+I wanna be a dumbass.
+-aedelman@
+%
+You're working on tickets? Gross.
+-iyer@
+%
+I've never been in a diving submarine.
+-iyer@
+%
+I'm sticky. I don't know what to do about the stickiness.
+-namkung@
+%
+I think the "we" who should want it is you guys.
+-namkung@
+%
+Treacherous hackery is fun, isn't it?
+-owenhay@
+%
+It's like winning the lottery when you get the lunch interview.
+-nicolino@
+%
+Basically, is cursing now appropriate?
+-nicolino@
+%
+He is really incompetent.
+-iyer@
+%
+The only thing that's stopping number 2 from happening is Dan writing the code and getting it QA'ed.
+-chrisale@
+%
+That's something else I gotta try to hack later.
+-daleb@
+%
+I did a lot of killing last night.
+-namkung@
+%
+There's no defense for that other than that just sucks.
+-brentl@
+%
+I might agree with you, but I think they taste like tasty chemicals.
+-mhewner@
+%
+I just came from the SCAB meeting and now I need a Band-aid.
+-jbaer@
+%
+I recommend four-letter words.
+-nicolino@
+%
+What do we have faith in?
+  - Pizza.
+  - Meetings and stuff.
+  - And the inevitability of COEs.
+-nicolino@, namkung@, nicolino@, mhewner@
+%
+Must suppress urge to rant.
+-nicolino@
+%
+Definitely like trying to play water polo in jello.
+-jpeacock@
+%
+Cool.  We've now entered the realm of fantasy.
+-nicolino@
+%
+Oh that's sad.  I forgot about efficiency.
+-iyer@
+%
+I have to say, I'd forgotten what a pain in the ass this job is.
+-lwinn@
+%
+Oh, that's what happened. Everybody was drunk.
+-nicolino@
+%
+They're talking about eating cockroaches. They're talking about eating cockroaches!
+-iyer@
+%
+So can we send him to a warehouse?
+-earlb@
+%
+I knew when you started that sentence that it wasn't going to be a constructive remark.
+-iyer@
+%
+I think everyone with an opinion should be shot.
+-jbaer@
+%
+I couldn't sleep that well, because I kept dreaming about config.
+-namkung@
+%
+I like to blame people.  I gotta get over that.
+-namkung@
+%
+I have compulsive sarcastic disorder.
+-newton@
+%
+I like it when you call me Big Papa.
+-nspitler@
+%
+A bunch of blank pages, that's what most people got out of the VDC migration.
+-gehman@
+%
+That falls under the category of "Duh!"
+-nicolino@
+%
+It is much easier to document it than to fix it.
+-namkung@
+%
+PERL is like magic fairy dust.
+-mlg@
+%
+I'm grumpy-go-lucky.
+-mikej@
+%
+It built. I don't know what it built.
+-olke@
+%
+They say they're gonna integrate it better, but "we're gonna" never happens.
+-mlg@
+%
+Hmmm, at times like this, I realize I need to stop talking.
+-nicolino@
+%
+Our best TBHs are working on the problem.
+-mhyman@
+%
+Also, I do not care to read books written by women (I know that is called sexist but don't care for their unnecessary descriptions of everything).
+-an Amazon.com customer complaining about his recommendations
+%
+I might be stupid.
+-namkung@
+%
+Just stop sucking!
+-carrino@
+%
+I'd say 'I'm easy' but that would just end up on the quote list.
+-jbaer@
+%
+You can put it up against the wall, and play with yourself.
+-mlg@
+%
+Oh, I replied to somebody and I didn't call them a dumbass.
+-mhewner@
+%
+We don't want people to have to think too much.
+-paul@
+%
+I ask my best questions after 2-1/2 martinis.
+-namkung@
+%
+It's always a good day when there's some danger of you melting.
+-abarker@
+%
+I shouldn't delete things early in the morning.
+-iyer@
+%
+You're presuming it'll ship on time without problems...and no.
+-nicolino@
+%
+I'm getting syntax errors in my brain.
+-carrino@
+%
+I wish I would stop expressing interest in job opportunities at Amazon.com
+-namkung@
+%
+My magnetic personality mal-affects hard drives.
+-earlb@
+%
+Then I committed it, then I tested it.
+-jbaer@
+%
+The problem was I hadn't deployed the fix to the fix.
+-jbaer@
+%
+That's negative calories, like cheesecake.
+-iyer@
+%
+Well, since it's never going to be a good time, now is as good a time as any.
+-anthony@
+%
+Suck my Rainier!
+-mlg@
+%
+I don't want to be just fine, I want to be loaded.
+-carrino@
+%
+Last night I dreamt that people were saying funny things, and I had to write them down for the quote list.
+-namkung@
+%
+It's not the first time I've been systematically excluded.
+-newton@
+%
+You're the master. Like devo, but faster.
+-julesg@
+%
+I've had many intense conversations about this topic, and so far I haven't lost any of them.
+-nicolino@
+%
+Adam hasn't been here long enough to have granular degrees of hatred yet.
+-jcrowley@
+%
+the wench just caught me on a bad quote.
+-iyer@
+%
+I don't know what it means, so I'm just going to have to assume it's not important.
+-mikej@
+%
+Devo is temporarily up.
+-mhewner@
+%
+I only buy it if it actually squishes.
+-mhamm@
+%
+I'm looking for some relatively simple rules to allow an average plebe to grasp the basic bureaucratic workings of this aristocracy we call the AmazonPickingSystem (APS).
+-drue@
+%
+They're all a bunch of windbags anyway.
+-jkuyken@
+%
+Could you imagine being a cron job?
+-iyer@
+%
+It's an automated program to get FIRED!
+-iyer@
+%
+Hack what you need to, always.
+-mhwener@
+%
+I bet it could have worked before... if they didn't test it.
+-namkung@
+%
+Do we have to forfeit the game if we are unable to produce one of each sex?
+-ericott@
+%
+I can only wish I had fifteen midgets.
+-mhewner@
+%
+There's a major problem, a problem, and some assorted things.
+-iyer@
+%
+Now that I'm all set up to be productive again, I think I'll take a break.
+-namkung@
+%
+I didn't realize how good things were before pilot, until we got pilot.
+-anonymous
+%
+I'm not sure of anything, especially that we're not dumb.
+-namkung@
+%
+You should go away more often.
+-namkung@
+%
+I must say, things sure do suck today.
+-namkung@
+%
+Do you have a minute to do a five minute code review?
+-jbaer@
+%
+It's like a ship in a bottle, except for there's no ship in a bottle.
+-namkung@
+%
+No, that's just my brain has a typo.
+-namkung@
+%
+Ok, summary of this event for us:  BLEH!
+-nicolino@
+%
+He thinks I've been paying attention to the things he's been saying.
+-namkung@
+%
+My hypothesis is that I'm dumb.
+-namkung@
+%
+Oh, I forgot to listen and I was wondering whether that's a problem.
+-mlg@
+%
+So, remember to listen for a second.
+-iyer@ to mlg@
+%
+[Are you going to send me the code reviewer link?]  I can send you the p4 depot commit.
+-anonymous
+%
+It's nice that we have tools to tell us when we're being stupid.
+-nicolino@
+%
+Maybe the internet's not that smart.
+-namkung@
+%
+You steal our security guy, we settle for half-assed.
+-iyer@
+%
+But that was after I was drinking.
+-iyer@
+%
+I plan on being hung-over at my exit interview.
+-aedelman@
+%
+That's how I hide my code from people.  Obfuscation.
+-namkung@
+%
+Perhaps I should put myself on the suck list.
+-iyer@
+%
+I tend to make career-limiting statements in environments like that.
+-amccray@
+%
+I believe he's finishing up a PhD, and so this is an SDE I level interview loop.
+-jeremy@
+%
+For about a year, I believed them when they said "we're gonna do that."
+-namkung@
+%
+Would you rather deal with a jackal, or with M.com?  At least with a jackal, you know what the requirements are.
+-samnick@
+%
+I'm a source control god, that's what I am.
+-bernard@
+%
+yeah. Too bad we don't IM in emacs.
+-namkung@
+%
+So when you say "Why don't we try it", you mean "Why don't you try it and tell me what happened".
+-mikej@
+%
+I turned off my head a while ago.
+-iyer@
+%
+I could tell you a hilarious story, but let's get liquor first. Otherwise I might start crying.
+-mhewner@
+%
+We're not going to the East side, you freak.
+-mlg@
+%
+If the rodeo doesn't involve testicles, I'm out.
+-pohlhaut@
+%
+I just tried to launch Namkung v2, "a brand new Ju".
+-namkung@
+%
+Nothing could possibly be worse than what happened in the last three weeks.
+-mikej@
+%
+Our team's core competency is showing up.
+-mhewner@
+%
+It's a hack, but it's our hack.
+-smcbrid@
+%
+Some of it came out of my brain, some of it came out of you.
+-mlg@
+%
+People *are* stupid.
+-mlg@
+%
+Everybody's stupid.  I hate everybody.
+-namkung@
+%
+It was disgusting, but it was already in my mouth.  I had to eat it.
+-namkung@
+%
+There's no shame in a donut.
+-namkung@
+%
+Is this Morphine?  Yes.  One for each of us.
+-mlg@
+%
+It's not that I'm lazy.  It's that I just don't care.
+-jbaer@
+%
+That reminds me of a joke. It's kind of inappropriate though.
+-pohlhaut@
+%
+Apollo is appalling.
+-pohlhaut@
+%
+Well, I'm going to go to the bathroom and think about that.
+-pohlhaut@
+%
+This might not get done very fast, but maybe very slowly.
+-mlg@
+%
+Killing rvd is like playing Asteroids.  Every time you hit it, you get more back.
+-vankirk@
+%
+Maybe some beer will make these sev-2s go down a little better.
+-mikej@
+%
+And check out ruby - it's like perl dipped in pure awesomeness.
+-mhewner@
+%
+It's like perl, but less suck and more awesome.
+-mhewner@
+%
+Is flaming [name withheld] our new policy? If it is, I want in.
+-mhewner@
+%
+I never really look at him. I just look at his email.
+-mlg@
+%
+It's a fucked-up world we live in right now.
+-iyer@
+%
+You might want to punctuate that with "bitch" somewhere.
+-abarker@
+%
+Nothing's that hard given infinite time and resources.
+-jbaer@
+%
+You're really...umm...less smart than I thought.
+-namkung@
+%
+I was gonna fix it, but there was something hard about it, so I didn't.  Plus you guys didn't know it was broken.
+-namkung@
+%
+Today I'm on fire.
+-pohlhaut@
+%
+I'm talking out loud to the Jeremy in my head.
+-namkung@
+%
+I've decided I'm gonna stop bitching and actually work.
+-iyer@
+%
+Devo gets rebooted and gets tanked *far* too often to have a vital service like APAN relying upon it.
+-dkreft@
+%
+I wanna throw something balloon-related at you.
+-iyer@
+%
+It would have been great if it worked.
+-kotas@
+%
+That is one hell of a hack...  I'll give it a go.. thanks..
+-dwelzel@
+%
+I've always thought the inside of a search engine would be a cool place to live.
+-nicolino@
+%
+I've been looking at it as a thought problem, but haven't actually tried deploying.
+-namkung@
+%
+I like to tell people I'm a programmer 'cause then they'll stop talking to you.
+-namkung@
+%
+I HATE inconvenience! 
+-julesg@
+%
+Pretend you got this report and had to do something with it.. Does it contain enough information for you to reproduce the problem?
+-bradrob@
+%
+Dude, you date me, you gotta accept I'm dating hundreds of others and am married to a few.
+-mlg@
+%
+Amusing for Maria is scary for everybody else.
+-daro@
+%
+With Darren, every day is Halloween.
+-mlg@
+%
+I think he's kind of a nag. Maybe that's a sign he's doing a good job as a PM.
+-anonymous
+%
+1 minute is 30 seconds.
+-mhewner@
+%
+the long and short is that i'm not terribly bright, but i am terribly eager
+-gold@
+%
+Excellent. I'm glad to do something that more than doesn't suck.
+-mlg@
+%
+I'm going to update that contact and tell them they suck.
+-mlg@
+%
+It's not my fault that I'm surrounded by incompetents.
+-namkung@
+%
+I am filled with unreasonable optimism.
+-mhewner@
+%
+Little do they know it was being held up by a hacked file on my home directory.
+-anonymous
+%
+So shall we check it in, or shall we test it first?
+-namkung@
+%
+I hear her talking.  She's probably wearing something.
+-namkung@
+%
+The reason I'm so good about it is that I'm on drugs.
+-namkung@
+%
+We're going to ship this service, I don't care how many people we have to kill.
+-dbryan@
+%
+I am, to put it very mildly, stuck between a dog and a tree.
+-philliwa@
+%
+I'm sure Amazon's software looks really simple ... in some good dream someone may be having... then they wake up, the bed's wet and reality sets back in..
+-naskovsk@
+%
+I have no clue what this does.  I know I put this in, but I have no idea what this does.
+-jbaer@
+%
+hmm, it strikes me that I haven't tested this
+-iyer@
+%
+Somebody had way too much fun with latex rubber.
+-baccus@
+%
+We don't document things in the sense of actual documentation.
+-namkung@
+%
+Fixed? Is that like when you fix a dog?
+-mlg@
+%
+I'll just speak louder till he gets me turned on.
+-knox@
+%
+Every team should have an Indian, right?
+-namkung@
+%
+I like licking things, and you can quote me on that.
+-lim@
+%
+It just feels hotter because you get to take your clothes off.
+-namkung@
+%
+We often love those who hate us.
+-mhewner@
+%
+You're going to get more meat whether you like it or not.
+-swartz@
+%
+Doing this kill -9 in the middle of the process probably isn't that safe.
+-pohlhaut@
+%
+Someone is trying to poison me... I think it's one of my team members.
+-pohlhaut@
+%
+Ooo, we can start our own soap opera, something like "Days of our Rainier".
+-nicolino@
+%
+Ok, so only your friends can touch your private parts.
+-pohlhaut@
+%
+I wasn't drunk, but I had done things.
+-iyer@
+%
+Sweet! I have an x-rated palm.
+-cgroom@
+%
+Wait if you marry them, you can't have sex with them? That's horrible. 
+-adavidso@
+%
+This is why I should hang out by the men's bathroom more.
+-mlg@
+%
+Hey! I was here first!!
+-pohlhaut@
+%
+We had a moment.  It's over.
+-namkung@
+%
+I know I'm a developer and you're not supposed to trust me, but...
+-mhewner@ to a QA guy
+%
+Depending on where it is, it could be more or less extremely difficult.
+-mhewner@
+%
+It's a good thing we have cupcakes to keep us warm.
+-iyer@
+%
+I hope I brought the right video.
+-pohlhaut@
+%
+I don't think this is for us. I think it's for someone who was meeting here a long time ago.
+-haberman@
+%
+I am extremely gullible, so if you feel like taking advantage of me...
+-harrys@
+%
+Emacs or vi? There's a war coming.
+-mhewner@
+%
+I thought that it could be really cool.  Cool in that embarrassing way.
+-mhewner@
+%
+Won't Matthew be excited when he hears I took off my shirt!
+-namkung@
+%
+Shouldn't your wife call you Cuddles and we call you Bug? 
+-nicolino@
+%
+I've sort of just been wiggling around.
+-(the former) mlg@
+%
+If I could summarily execute people I think my project would finish much sooner and much more easily.
+-fsukhenk@
+%
+Add me to that conversation so I can yell at him.
+-iyer@
+%
+He's kind of annoying.  But in the way your conscience is annoying.
+-namkung@
+%
+What the heck is going on? My world is insane.
+-mhewner@
+%
+We wanted a ninja who was extremly cool and "looking like he's about to come out of the sticker and kick your ass".  This one has a halo for some reason.  Everybody hates the halo.  It's also winking.  This does not suggest a coming ass-kicking.
+-mhewner@
+%
+I can kill them but I don't want to kill them.
+-samroy@
+%
+That sounds like an awesome hack.
+-oerdogan@
+%
+I feel like [the PM] is not a force to be reckoned with on our own.
+-namkung@
+%
+I'm like a versionSet restoration pimp.
+-bernard@
+%
+Our kind of relationship sort of precludes fun-ness.
+-mhewner@
+%
+Buffalo's great. Buffalo needs to go to every meeting and, like, kill people. With a gun.
+-iyer@
+%
+No paper trail. Never a paper trail.
+-iyer@
+%
+No, you get your ass up to Safeway.
+-pohlhaut@
+%
+We should probably revoke all rights for VPs for Seller Central, but that's a separate issue.
+-earlb@
+%
+"We" being other people.
+-mhewner@
+%
+Oh, no, I'm totally right.
+-iyer@
+%
+What?! I don't remember doing that!
+-daro@
+%
+I'm sort of hoping to tackle my manager at some point.
+-mhewner@
+%
+Yeah, but she doesn't have to see Buffalo naked.
+-pohlhaut@
+%
+We should get rid of email, it would boost productivity.
+-johnwu@
+%
+Production is my devo.
+-ericf@
+%
+What can so many branches bring but pain and suffering?
+-haberman@
+%
+Typically, there's a boy AND a girl.
+-iyer@
+%
+We're not looking for satisfaction right now - we're looking for sanity.
+-namkung@
+%
+Here's the thing: if you aim it at your throat, it has much better range.  I'm serious!
+-mhewner@
+%
+Speaking of doing nothing, you're doing double-nothing duty this week.
+-mhewner@
+%
+It's like a hot date, except it's with a hundred million college students.
+-mhewner@
+%
+Oh, you're a grunter.
+-august@
+%
+Everyone has been under Gus at some time.
+-fsukhenk@
+%
+We have extra balls.
+-harrys@
+Oh yeah we do.
+-pohlhaut@
+%
+I'm just going to make Paul do it.
+-namkung@
+%
+It's nice to be right every now and then.
+-mikej@
+%
+It's no fun to blow chunks through a snorkel.
+-earlb@
+%
+It's hard writing a review for [name withheld] because his 'bias for action' was my 'pain in the ass'.
+-anonymous
+%
+It's fault tolerance.  It's not a hack, it's "here's a fault, let's be tolerant."
+-mhewner@
+%
+reassigning to haberman@ just because I can.
+-namkung@, in a trouble ticket correspondence
+%
+I feel like we're waiting for the coming of Christ or something.
+-haberman@
+%
+Congratulations!  Humans still do have a purpose.
+-haberman@
+%
+Web sites would be great if they didn't have any users.
+-abaum@
+%
+I'm not saying we don't care, I'm just saying "Goddam, man!"
+-mikej@
+%
+When I said "we'll deal with that later," I meant "we'll leave this in our config forever because who cares."
+-mhewner@
+%
+I am tactfulness incarnate.
+-mhewner@
+%
+We are not doing any more hacks, that is what this meeting is about.
+-felix@
+%
+Oh, ok. You can go about your business, then. You freaked me out for a second.
+-pohlhaut@
+%
+If you don't dance, you must lick.
+-pohlhaut@
+%
+QA? What do we need from them now?
+-pohlhaut@
+%
+Urgent Update: M.com is a sham.
+-mhewner@
+%
+The sooner we fall behind schedule, the more time we'll have to catch up.
+-overheard
+%
+Ok, [name withheld] can be my boyfriend.  I like boyfriends that are good at java.  
+-iyer@
+%
+You don't get a nickname like "Fatty" unless you're a tough guy.
+-julesg@
+%
+Another issue with Target - not only would they like to be able to preview their site, but...
+-harrys@
+... they'd like it to produce gold for them too?
+-pohlhaut@
+%
+It sounds like this Wiki node is living in a fantasy land.
+-haberman@
+%
+I like to put everything into production and test there.
+-stlandry@
+%
+The power of Jesus might do many things, but it ain't no operating system.
+-battisti@
+%
+I'm sure girls love joke engagement rings.
+-aprater@
+%
+I didn't order anything because I'm full of jelly beans.
+-mbrubeck@
+%
+We could hire a team of core dump engineers!
+-pohlhaut@
+%
+Would you like shit or a sandwich?  You can have the shit right now, but the sandwich will take some time to make.
+-mhamm@
+%
+You don't really have to justify your ideas, you just have to care longer than anybody else.
+-mhamm@
+%
+Browse obscurity is a feature.
+-gus@
+%
+Emacs is the textiest editor of them all.
+-mhewner@
+%
+Oh, there's always retribution...
+-gus@
+%
+If it involves beating up, I should probably own it.
+-mikej@
+%
+What the hell are you doing, man?
+-mhewner@
+I'm thinking.
+-pohlhaut@
+Oh, so that's what that looks like.
+-mhewner@
+%
+I'm willing to trade ugly for dumb... er, dumb for ugly.
+-mhewner@
+%
+I'm not sure I can wait till lunch to make out with you.
+-iyer@
+%
+Sure, I'll take a look at that ticket... right after I handle this obidos issue I also don't care about.
+-bernard@
+%
+It's pending the resolution of the You-Jackass situation.
+-bernard@
+%
+Perl is like a saliva-based glue.
+-stephan@
+%
+Well now I'm trying to not exhibit the internal jigglies that I'm feeling right now.
+-gabrielx@
+%
+I assume because it has a "-let" at the end that it's a Java thing.
+-mhewner@
+%
+Obviously in the real world, it's a real world scenario.
+-mhewner@
+%
+It could have been worse.  Everyone who was supposed to be there could have showed up.
+-mikej@
+%
+We should rename minimal deployment, "EVIL deployment", or something like that.  "BREAK the deployment", how about that?
+-mhewner@
+%
+Can't we hire little people to do this?
+-abaum@
+%
+I've been at a good stopping point since Monday.
+-pohlhaut@, 5:15 PM, Friday
+%
+I designed it, so I know how much it sucks.
+-mhamm@
+%
+The only thing that keeps us from evil is some good therapy.
+-cade@
+%
+You can't say "I was drunk off my ass" -- that's not considered an acceptable response.
+-mhewner@
+%
+What did I do in a past life to deserve this?
+-mhamm@
+%
+Can I borrow your gigantic ball?
+-mhewner@
+%
+At least I own my grumpiness.
+-mikej@
+%
+Well, we don't want to change things just for usability's sake.
+-anonymous to mhamm@
+%
+My life would be so much easier if we didn't have so many damned users!
+-mhamm@
+%
+Jeremy, Buffalo came up with something crazy that we need your help with...
+-carrino@
+%
+At this company you turn water into wine and they're like, "I wish this was champagne."
+-stlandry@
+%
+He's just a dumbass like us. Dumber!
+-ngordon@
+%
+Buffalo equals evil.
+-mhamm@
+%
+One of your services -- we'd like to destroy it for all time.
+-mhewner@
+%
+Anywhere else the email subject line "Apollo notification regarding your desktop and the toaster" would sound odd.
+-jbaer@
+%
+I consider Visual Basic to be psychological humiliation.
+-mikej@
+%
+I was thinking of getting undressed.
+-chadw@
+%
+The bad news is, I'm an idiot, so you should expect to be paged if I get involved in it.
+-anonymous
+%
+I take ownership of my grouchiness.
+-mikej@
+%
+Some people are like Slinkies... Not really good for anything, but they still bring a smile to your face when you push them down a flight of stairs.
+-anonymous
+%
+I am the object of desire.
+-mgb@
+%
+Unfortunately there are more confusing things in the OMS code than is to be desired.
+-trimble@
+%
+OK, forget reality for a minute...
+-mhamm@
+%
+It would be nice if we had phone tool for the real world.
+-aprater@
+%
+The only words I know that end in 'x' are 'fox' and 'fix.'
+-pohlhaut@
+%
+Don't say "they", it's just a piece of software, it doesn't have feelings and emotions.
+-mbg@
+It's only a piece of software until my pager goes off.
+-saville@
+%
+The point is not to show how awesome you are through a presentation - we know you're awesome and we hate presentations.
+-mhewner@
+%
+So they're like, "Oh man, this merchant is totally rampant with fraudulousness."
+-carrino@
+%
+I wouldn't run at you with a knife, but I wouldn't be happy about it either.
+-mikej@
+%
+You can really watch a lot of TV if you put your mind to it.
+-mhewner@
+%
+I've lost all faith in man.
+-haberman@
+%
+I sort of like human-readable formats in general...because you can read them.
+-mhewner@
+%
+It would be really cool if I had an iTrip for my head.
+-mhamm@
+%
+All we need is one crazy American millionaire to make this work.
+-mhamm@
+%
+No way are you getting me into a cage like that...unless there are snacks involved.
+-mhamm@
+%
+Dude, we have got to stop doing what we're doing.
+-mhamm@
+What's that?
+-jbaer@
+Working.
+-mhamm@
+%
+It's like you're a computer trained in language, but you're not exactly a human.
+-namkung@
+%
+No one can really stop you when you don't know what you're doing.
+-jkuyken@
+%
+Wow, you're actually blaming society instead of me.
+-jbaer@
+%
+[anonymous] is good at tying people together...now he needs to get good at tying people to chairs.
+-jbaer@
+%
+We're not saying it's impossible.  We're saying we hate Java.
+-carrino@
+%
+Correct me if you guys are wrong, but...
+-swindsor@
+%
+This stupid manager isn't a load-bearing manager at all.
+-gabrielx@
+%
+I think all managers should be required to dance.
+-gabrielx@
+%
+Well, I guess if someone's going to throw something, I might as well throw something.
+-gabrielx@
+%
+Now, if I had boots like that, then I could really give good code reviews.
+-gabrielx@
+%
+Oh my God, I hate you, wiki.
+-aprater@
+%
+I've taken to sleeping with my laptop.
+-mhewner@
+You need a girlfriend.
+-abaum@
+%
+OK, I theoretically respect that.
+-mhewner@
+%
+For the sake of my job, what are you going to be using these quotes for?
+-fsukhenk@
+%
+You can walk with us and then ditch us at the last moment.
+-haberman@
+%
+You're not going to put that on the quotes list are you?
+-haberman@
+%
+Ultimately, we're all adults here...
+-sshapero@
+%
+I'm glad we came up with a solution that doesn't involve any broken bones.
+-namkung@
+%
+Oh sure, we've got some ugly situations from the past.
+-honner@
+%
+Look at me, I'm writing Java!  Look at how cool I am!
+-carrino@
+%
+I'm a black and white kind of guy.  There is good and there is evil.  You're either with me or against me.
+-chadw@
+%
+Yeah, talk to me when I care.
+-yunker@
+%
+Now we've entered the territory of super-hacks.
+-aprater@
+%
+The last refuge of a scoundrel is blaming the UI.
+-jcrowley@
+%
+There could be a bad ending for something, based on this.
+-chadw@
+%
+I'm okay with doing bad things -- I've made a career out of that -- but I don't want to do super-bad things.
+-anonymous
+%
+We're just like hominids casting about in the dark.
+-sshapero@
+%
+I'm gonna draw some pictures and go home dude!
+-sshapero@
+%
+I'm going to ticket every single one of these teams.  It's going to be a merciless rain of pain.
+-sshapero@
+%
+I hate it when you say that, you fucking Spock!
+-chadw@
+%
+I'm not worried about [my software] handling the impossible when it can't even handle the possible.
+-sshapero@
+%
+I don't know who this Chadwick fellow is, but I hate him.
+-chadw@
+%
+I'm going to go shoot myself.
+-chadw@
+%
+It's a hosed kind of day.
+-bbender@
+%
+Why can't you do this shit when *you're* on call?
+-tarae@
+%
+He likes to encourage us to think logically, but we've found that's a complete waste of time.
+-sshapero@
+%
+I'm the king of things that don't mean anything.
+-plaster@
+%
+Jeremy gets uncomfortable when I refer to them as "rat bastard customers".
+-anonymous
+%
+Did you just compare something in computer science to poking a bear?
+-metcalf@
+%
+I'd like to get a "C" in monitoring, rather than the "D" I got in biology.
+-sshapero@
+%
+Don't hate me 'cause I'm beautiful, hate me 'cause I'm right.
+-chadw@
+%
+Don't hate me because I'm beautiful...
+-chadw@
+Oh, that's not why we hate you Chad.
+-bbender@
+%
+You're a bitter old man!
+-chadw@
+%
+My ongoing battle with [group name withheld] has inspired me to new levels of non-ownership.
+-ericy@
+%
+Even if I get their help, I don't think they'll be of much use.
+-ericy@
+%
+I have dreams like that where vi is hooked directly into my brain.
+-aprater@
+%
+Let's use this as a stick, rather than bending over.
+-bbender@
+%
+I've clearly been drinking the cool-aid.
+-sshapero@
+%
+Working with computers is hard, and working with really smart people is even harder.
+-sshapero@
+%
+You could page me -- then there would be tears.
+-sshapero@
+%
+Mister Chris, you're not dead.  That makes Chad happy.
+-chadw@ to metcalf@
+%
+At Amazon, I could probably come in without pants, so long as I wrote good code.
+-metcalf@
+%
+A stuffed animal makes the best debugging tool.
+-awilkins@
+%
+You're not Irish.
+-ichung@
+No, I'm drunk.
+-chadw@
+%
+When I said "there should be one", I meant if there was no work involved.
+-bbender@
+%
+If we don't get ordering working, we're going to go out of business.
+-sshapero@
+%
+We have real beer in our fridge.
+-anonymous
+Well, that explains some things.
+-edower@
+%
+I'm not mocking you, I'm just saying that's kind of a dumbass question.
+-tarae@
+%
+I've been spamming myself all day...no wonder I can't get through my email.
+-awilkins@
+%
+Just say no to requirements.
+-ienders@
+%
+Yesterday...I don't know what the hell I did yesterday...something to do with MYO...
+-sshapero@
+%
+I'm gonna buy a mallet and bring it to work.
+-jcrowley@
+%
+The wheels of progress are greased with developers.
+-bbender@
+%
+I'm not sure if I should have signed up to build [tool name withheld].  Every time I mention it to someone, they say "Oh you poor bastard."
+-jbaer@
+%
+Yes, I'm getting responses, and the responses are errors.
+-sshapero@
+%
+I'm trying to ravage through my memory banks.
+-jcrowley@
+%
+We just want to make it village idiot proof.
+-canfield@
+%
+Documentation is for the weak.
+-sshapero@
+%
+You are officially the most important member of this team.  You're the dumbest, but the most important.
+-anonymous
+%
+There's no hack I won't commit.
+-jcrowley@
+%
+Ahhh, that guy can be charming when he tries.
+-bbender@ re chadw@
+%
+Did I tell you about how I started drinking whisky?
+-gabrielx@
+%
+We just want to get mailed the SQL queries to hose our customers with.
+-gabrielx@
+%
+Yes, people are funny when they are on drugs.
+-iyer@
+%
+There is no rat's nest that I've not been in.
+-jcrowley@
+%
+Let's try to leverage the existing hack.
+-sshapero@
+%
+I always did think you were a bit of a robot.
+-sshapero@
+%
+I feel nothing but dread when I look at you.
+-chadw@
+%
+Instead of hookers and blow, it just blows.
+-anonymous
+%
+I've graduated from strip joints...to World of Warcraft!
+-chadw@
+%
+What are you trying to achieve? I was just asking in general, for this conversation.
+-gabrielx@
+%
+Potsticker for your thoughts?
+-cmyers@
+%
+You know it's a good party when Movses sleeps on your bathroom floor.
+-chadw@
+%
+AWOBS is our version of the cockroach.
+-jcrowley@
+%
+I'd walk around in a garbage bag all day for 1/10th of that.
+-jcrowley@
+%
+It's not a good email unless there's the threat of police getting involved.
+-mbrubeck@
+%
+This dude sent me a mail with 'jboss' in the subject, which triggered my "not going to give this guy any real help, he's already shot himself in the foot" filter
+-andrewlu@
+%
+I want to stop stepping in other people's pee.
+-mhamm@
+%
+You might want to point out to them that what they want to do is asinine.
+-jcrowley@
+%
+Your legs are WAY too hairy for that kilt.
+-chadw@
+%
+It could be worse than Y2K in that it's actually a problem.
+-ienders@
+%
+God, I didn't realize I sounded that bitter.
+-jcrowley@
+%
+I'm sorta just hearing words and trying to make a process out of the words I hear.
+-pohlhaut@
+%
+Friday should be deprecation day every week.
+-riyadth@
+%
+I think it's because I let sanity go, I can respond to them in exactly the same way they're expecting.
+-mhewner@
+%
+The funny thing is that on Rainier, I'm now the epitome of pure evil.
+-mhewner@
+%
+I don't know if it was all the drinking last night or all the Friday today.
+-mhewner@
+%
+Anger plus resignation equals sarcasm.
+-jbaer@
+%
+Besides, Jim's on call so I can be very cavalier about this.
+-bbender@
+%
+I'm yelling at you guys instead of at him, because he has the keys to the cheese.
+-sshapero@ re remedy ticket assignee
+%
+wiki lies.
+-bbender@
+%
+Who's getting shaved?
+-jbaer@
+%
+As a consequence of your absence and Chad's absence, the life has been sucked out of the room.
+-jcrowley@
+%
+It's what I call legalized marijuana -- it has the same stupifying effect and it's kinda fun.
+-sshapero@
+%
+I kinda wondered is someone trying to get me liquored up.
+-bbender@
+%
+It's not that it's difficult to poison cats...
+-mfletch@
+%
+I'm just kind of randomly violent this morning.
+-stevebru@
+%
+I wear grown up pants.
+-bbender@
+%
+You, my friend, are fucked.
+-bbender@
+%
+I've been told we are spending too much time working on other people's projects.  Unfortunately we're still obligated to work on them, they just want us to figure out how to do it in less time.
+-bbender@
+%
+Why is everything at this company fucked up?
+-anonymous
+%
+It's Brazil Config by superstition...
+-sshapero@
+%
+We don't actually know what we're doing, we just have more permissions than you.
+-sshapero@
+%
+That just goes to show you that being dumb is an asset as a developer.
+-sshapero@
+%
+I think we should just put AWOBS in a subversion island of suck and visit it from time to time.
+-bbender@
+%
+I figured out that your job is basically just to give us work to do.
+-sshapero@ to a TPM
+%
+Our software is 1000% more featureful today than it was yesterday.
+-bbender@
+%
+It's just like Microsoft stuff -- you don't have to know how anything works.
+-sshapero@
+%
+What is the Program Office?
+-shepherd@
+%
+We will not let acts of God stop us.
+(referring to the fact that RemoteCAT was down over the weekend of 2/5/06 due to a power outage, due to a wind storm during SSOF launch)
+-felix@
+%
+Do you want me to be honest, or do you want me to be truthful?
+-shepherd@
+%
+Wow. Being an adult sucks.
+-ehrhardt@
+%
+I don't know what I did yesterday but I think I was pretty productive.
+-alanr@
+%
+I own the buzzkill. I'm gonna buzzkill down to the bone.
+-jmurray@
+%
+Some of what I am about to tell you is wrong.
+-chenault@
+%
+Buzzkill would have been: That's the dumbest idea I have ever seen.
+-chadg@
+%
+If you guys go down there and throw up ideas all over them, they're just going to hose themselves off and walk away.
+-kennyri@
+%
+I don't think it's just my bad attitude that's making it hard to use this form.
+-namkung@
+%
+So that's the reason why I like munchkins.
+-maraw@
+%
+I know that "infurious" isn't a word, but it still makes me infurious.
+-pohlhaut@
+%
+It is very fixable, it's just broken.
+-bbender@
+%
+Unlike a dolphin, I don't sleep and breath at the same time.
+-bbender@
+%
+I think he has coded, just nothing of substance...
+-metcalf@ re phone screen candidate
+%
+Don't let me impede your search for someone who cares.
+-jbaer@
+%
+I'm a vegetarian, not a rabbit.
+-ienders@
+%
+There is absolutely nothing you can do at this company where you can't somehow get fucked.  It's staggering how peril awaits around every corner.
+-sshapero@
+%
+Hey, I'm all for illegal.
+-prowley@
+%
+I used to be a law-abiding citizen before I met you.
+-jale@
+%
+"This meeting's boring. Back to porn."
+-bernard@
+%
+He had his wife and his kids. He didn't need any more little nerds in his life.
+-mhewner@
+%
+You do realize that nobody's actually listening to you.
+-metcalf@
+%
+If I really cared if anyone was listening to me, I'd talk a lot less.
+-awilkins@
+%
+I don't care about YOU, I care about what you can do for me.
+-bbender@
+%
+Zombies will eat your developers.
+-bbender@
+We are zombies.
+-ienders@
+%
+I'm not making other people's problems my problems -- I'm making other people's problems YOUR problems.
+-anonymous dev manager to developer
+%
+It's talking to the database, the problem is that it doesn't like what it's seeing.
+-sshapero@
+%
+It's harder to build something here than to rewrite hibernate in assembly!
+-sshapero@
+%
+Why don't we let legacy merchants burn in hell?
+-sshapero@
+%
+I just smoke Ian's crack and it makes unit tests.
+-sshapero@
+%
+Oh, I forgot -- we have computers.
+-metcalf@
+%
+I was just picking your brain.
+-alanho@
+You've picked it -- there's not much there.
+-bbender@
+%
+Hopefully there will be a principal in the room.  Then we'll be guaranteed to get nothing done.
+-anonymous
+%
+I have need of nerds.  That's why I'm here.
+-sshapero@
+%
+There's enough upstream bullshit already that I am not really increasing the bullshit.
+-sshapero@
+%
+That's fascinating, in a sort of "I don't really care very much" kind of way.
+-bbender@
+%
+I aspire to be that powerful.
+-sshapero@
+%
+You can't send a random email to a thousand people saying "do what I want" and then complain that it's not done.  What the fuck were you expecting?
+-anonymous
+%
+Well, I never write reusable code, so I wouldn't understand.
+-anonymous
+%
+Win-win is best.  Win-lose is fine.  Win-lose-lose is also fine.  Lose-lose is bad.  Basically I just don't like to lose.
+-bbender@
+%
+[How's your deployment going?]
+So far, so good. It hasn't happened yet.
+-meiqi@
+%
+We should all quit and become bakers.
+-jbaer@
+%
+I trust you more than I trust myself.
+-sshapero@
+%
+Let's look up their bar-raiser. If it's me, I'm firing myself.
+-esc@
+%
+I don't remember what people say to me. It's a problem sometimes.
+-zachmu@
+%
+Worst case, there's a liquor store on 2nd & University.
+-dnangle@
+%
+This isn't work. My flying death monkey could do this.
+-coler@
+%
+The upgrade is not bug-for-bug compatible.
+-dnangle@
+%
+Enlarge in IE makes the scroll-bars bigger. It's like Big World in Mario. What the [expletive deleted] were they thinking?!
+-coler@
+%
+I just want to complain about the problem. I don't want to fix it.
+-esc@
+%
+Instead of coming up with a solution, let's just perpetuate the problem.
+-esc@
+%
+Most people are really, really stupid.
+-coler@
+%
+If you search for... Who's that other guy I hate?
+-coler@
+%
+You're from Boston. How can you make fun of people's words?
+-coler@ to dnangle@
+%
+I like shoes. Piss off.
+-coler@
+%
+coler@: If I have to migrate [service name withheld] again, I'm migrating it to /dev/null.
+[several months pass...]
+gpare@: Cole, guess who owns [service name withheld] now!
+coler@: [name withheld]?!?
+gpare@: No, still you.
+coler@: ...I was so excited I forgot that Geoff's an [expletive deleted].
+%
+It looks like I didn't break any of the things that I broke last time.
+-sshapero@
+%
+I had a nightmare this morning that I couldn't find coffee.
+-sshapero@
+%
+I'll deflate his balloon tomorrow.
+-bbender@
+%
+You're "The Movses", Movses.  Why don't you do it?
+-stevebru@
+Why should I?
+-babayan@
+Good fucking point.
+-stevebru@
+%
+This is bad news bears.
+-trayton@
+%
+We have databases that work?
+-gsimmons@
+%
+Where's Chris?
+-babayan@
+Meeting with Brett.
+-sshapero@
+Where's Brett?
+-babayan@
+Meeting with Chris.
+-sshapero@
+%
+This ticket is pending someone who gives a shit.
+-sshapero@
+%
+Oddly enough, I think I am actually making progress.
+-jbaer@
+%
+You know what sucks?
+-bbender@
+Many things.
+-sshapero@
+%
+I think that's Jeff Bezos calling to tell me I'm fired.
+-sshapero@
+Not to destroy your inflated sense of self-importance, but I sincerely doubt it.
+-bbender@
+%
+He's about as reliable as devo.
+-ankurk@
+%
+Greetings, minions.
+-bbender@
+%
+The best way to prove that you're right is to be more grown up about it...or you could hit him with a stick.
+-bbender@
+%
+Why is this doing nothing?
+-sshapero@
+What's it supposed to do?
+-bbender@
+Not nothing.
+-sshapero@
+%
+Our team gets by fine without a QA resource -- we've just become adept at using the rollback feature of Apollo.
+-roncosc@
+%
+I wasn't yelling -- if I was yelling your hair would be blowing back.
+-bbender@
+%
+Shapero, happy birthday.  What bugs do you have?
+-anthony@ to sshapero@
+%
+I hear unicorns.
+-sshapero@
+%
+I don't want to build it in the fucking fuck!
+-jbaer@
+%
+Amazon -- have fun, make history, slip release dates.
+-metcalf@
+%
+It's not like you have the electrodes strapped to your nuts that way.
+-anonymous
+%
+We now know very scientifically how fucked it is.
+-sshapero@
+%
+A ticket a day keeps progress at bay.
+-sshapero@
+%
+Have you ever been so tired you just keep sweating?
+-pohlhaut@
+%
+I will punch you.
+-bernard@
+%
+If you're dehydrated, you should drink water.
+-jmink@
+I did!  I took about 30 shots of water.
+-dylanp@
+%
+I would be so happy if we had monks in the MOD [Manufacturing On Demand] area.
+-gabrielx@
+%
+If my apartment is a significant sample, there are a lot of crazy, angry people connected to the internet.
+-kamling@
+%
+I find it is an invaluable alternative to shooting myself in the face to end my pain.
+-cmyers@
+%
+I know one guy who [left IRC running all night], and he used up all his cpu so that none was left, and he had to compute on his CMOS battery instead
+-nikita@
+%
+If java and xml have to pick between 2 implementations, you can bet they'll pick the most verbose.
+-mfletch@
+%
+CM 999999: Upgrade all RHEL4_64 hosts to latest release of Plan 9.
+-mbrubeck@
+%
+"Respect my Kindle"
+-jlevanon@
+%
+<kamling> :
+<kamling> s/$/\//
+<kamling> there's nothing to make a smiley sad like having its mouth fall off and have to be sed-ed back on
+%
+The First and Second Rules of Program Optimisation
+  1. Don't do it.
+  2. (For experts only!): Don't do it yet.
+-jpeacock
+%
+I'm gonna be so mad if they don't fire you!
+-namkung@ to gabrielx@
+%
+Everybody was RTLA firefightin'
+Those logs were fast as lightning
+In fact it was a little bit frightning
+They did not parse with acceptable timing
+-kamling@ when Real Time Log Analysis was bogging down on logs
+%
+I thought nobody was like the user everyone can use and throw away like a used something nasty user
+-bernard@
+%
+I guess I'll just have to be there at 3:30 AM to stick my strace in someone.
+-kamling@
+%
+Problem exists between morons writing mason's chair and morons writing mason's keyboard.
+-kamling@
+%
+RetailWebsite has a Gurupa nanny process that searches for orphaned gurupa processes, and kills them.
+-bernard@
+That's not a very good nanny!
+-jmink@
+%
+Why is all the hate coming this way?
+-sameers@
+%
+Cut out the thinking and do some work!
+-gabrielx@
+%
+It works fantastic! What's your problem?
+-ericy@
+%
+Anyone who has a director who's asking questions is incented to throw us under a bus.
+-namkung@
+%
+Jason is awesome!
+-jale@
+%
+no abstraction from hibernate, the session is toted around like a flag in a bad game of CTF
+-jamestep@
+%
+I used to be a nice person before I joined the company.
+-jale@
+%
+Do I bring out the dumb in people?
+-gabrielx@
+%
+...and on that note, I'm going to get a cup of tea.
+-lipton@
+%
+I want to make a library and call it "lib4j", except I'd write it in perl.
+-cmyers@
+%
+As a general note, when there's blood in the water, don't jump in.
+-ericy@
+%
+I am the soul of maintainability, clarity, correctness, and commenting.  Trust me in all things.
+-kamling@
+%
+We fucked them, then unfucked them.
+-kamling@
+If they had known what was good for them, they would have stayed fucked.
+-Chris L
+We may yet refuck them.
+-group consensus
+%
+[C]lient side caching of Rights causes it to return the already-fucked rights object which gets refucked, possibly several times ... [one possible option is to] fix [the] fucker to not doublefuck
+-kamling@
+%
+Um... I don't know what it is... Something called availability
+-pohlhaut@
+%
+they don't just touch it, they grope it.
+-dylanp@
+%
+Let's see if we can make it not look quite so ghetto.
+-ericy@
+%
+It's always good to throw a random eyeball into your architecture diagram.
+-gabrielx@
+%
+Fatal first, ask questions later.
+-jolo@
+%
+If we are really stupid, we can break anything.
+-kartiks@
+%
+I'm skeptical of any sentence that begins with the word hopefully.
+-craighow@
+%
+I don't know... I just work here.
+-luey@
+%
+But that's what natural selection is for.
+-dgellman@
+%
+He could code, he just couldn't think.
+-ericwei@
+%
+I'm the guy with the project identity crisis.
+-ericwei@
+%
+I like the smell of bugs in the morning.
+-jolo@
+%
+Do we have to take reality into account?
+-robowen@
+%
+You're a walking security violation.
+-cormie@
+%
+I got to data warehouse & discovered I was in a cave full of twisty passages all alike.
+-matlock@
+%
+The thing about git is, it is so free of restrictions...you really have to embrace that there is no spoon...  also, there are no branches.
+-cmyers@
+%
+Manager: Let's put down four hours
+SDE: That's a 12 hour task
+Manager: But we don't *have* 12 hours in this sprint, so let's just put down four hours
+SDE: Just writing four hours isn't going to magically make it happen faster!
+-anonymous
+%
+This horse will be dead long before I stop beating it.
+-jehunter@
+%
+Just because you're a jerk doesn't mean you have the best critical judgment.
+-jabshire@
+%
+That is very nervousing.
+-svisick@
+%
+You wanna hire a QA person? Break something, then see who finds it but doesn't fix it.
+-djhanson@
+%
+See how much time I can waste? It's like a gift.
+-svisick@
+%
+I wish there's an <arse> tag.
+-svisick@
+%
+Sometimes, but many of my mutual friends are idiots.
+-svisick@
+%
+Bob gets really nutty when he's getting raped by the company.
+-minelson@
+%
+also, your caps lock was all caps locky / I pressed it, and the caps, it locked them
+-kamling@
+%
+This conversation at a lot of other companies, people would stab you.
+-claytonm@
+%
+Your old one was huge. I don't know how you fit it in your pants.
+-svisick@
+%
+He likes whipping it out to show it to you.
+-jabshire@
+%
+Look, I'm a Republican. I only deal in things I can touch. Except for God. He's okay.
+-claytonm@
+%
+The only principle that guides me is laziness, and I don't know which option is the laziest one. I mean, I could figure out which one is the laziest one, but that would take a lot of effort.
+-svisick@
+%
+You can't get A to Z if you skip F!
+-svisick@
+%
+I'm stupider than I am evil.
+-svisick@
+%
+What I mean by "That's not really my style" is that I'm passive-aggressive instead of regular aggressive.
+-svisick@
+%
+I never care what I say. Ever. Well sometimes.
+-svisick@
+%
+I guess in base 35 I'd be 10.
+-svisick@
+%
+On the plus side, I did find out what PIP stands for.
+-anonymous
+%
+I'm not afraid of babies because I figure if one comes at me, I can just kick it.
+-anonymous
+%
+The point of that story is, although I may suck, I'm also awesome.
+-svisick@
+%
+We're hoping to improve our ability to delete people. Hopefully that will help.
+-edower@
+% 
+I find most of the Obama administration to be annoyingly my age.
+-svisick@
+%
+pratik: we should OPF 301 them
+dj: yes we should
+pratik: by we I mean you
+pratik: Don't look at me... I suck at computers
+dj: I hate you pratik
+-djhanson@, -pratik@
+%
+Do I look like your butter bearer?
+-namkung@
+%
+I've assumed her identity!  Look, now I'm Ukranian, and have a little dog!
+-svisick@
+%
+A WORLD of fuck that!
+-svisick@
+%
+Meat has been fashionable for about a year now.
+-svisick@
+%
+Yeah, I just didn't know everyone was going to be an asshole.
+-svisick@
+%
+I remember when he started here, he was a happy person.
+-djhanson@ (about claytonm@)
+%
+I'd rather that you lie to them, than that I lie to them.
+-pratik@ (to jmc@)
+%
+Well, I was shown the [Remedy] interface, and I was told to be careful with the 1's and 2's.
+-milesc@
+%
+So, running these tests galls me.
+-milesc@
+%
+I swear to God I wish I had not just done a google image search for "Bea Arthur".
+-milesc@
+%
+I am not whining!
+-svisick@
+%
+We would start a race condition among assholes.
+-cnewcom@
+%
+I was going to say, how hard could I be working right now?
+-svisick@
+%
+I had enough trouble getting married as it was.
+-cnewcom@
+%
+You boggled my mind, which is not a good sign.
+-svisick@
+%
+Fuck you and your semantic web.
+-svisick@
+%
+I don't know why you test me on these things. You vex me so.
+-jmc@
+%
+Wait, 6 is less than 20?
+-svisick@
+%
+You're fucking winning the Sherlock Award today.
+-jmc@
+%
+Oh my fucking God. If we have two Spencers in a code review, I am out.
+-milesc@
+%
+Hey, I have a liquid. I wonder how old this liquid is?
+-svisick@
+%
+You are an impediment.
+-milesc@ to svisick@
+%
+I tend to think of myself as a one-man wolf pack.
+-svisick@
+%
+He doesn't know how to use calendaring so he needs to shut the fuck up.
+-jmc@
+%
+You know it's time for lunch when you eat a cream puff and you want to eat four more cream puffs.
+-milesc@
+%
+How come yours is so much bigger?
+-milesc@
+%
+Do it!  Do a thing!  Fucking Brazil!
+-milesc@
+%
+Well, to be fair, you do have the easy job.
+-svisick@
+%
+Why is it always sex? I'm so bad at that.
+-svisick@
+%
+Can I be milseypoo@?  That would be great!
+-milesc@
+%
+Spencer is like having a girlfriend at work.
+-namkung@
+%
+What the fuck, Miley, I hate you!
+-milesc@
+You!  You're out!
+-jmc@
+%
+I don't want to get into a flame war... but you are essentially doing what the Nazis did.
+-svisick@
+%
+But I'd rather cuddle with you than Miles.
+-svisick@
+I don't know, that beard looks pretty soft.
+-joelee@
+%
+All this shit that's on the quotes list that's attributed to me? If I had said even half of it, I wouldn't say anything else.
+-svisick@
+%
+Holy crap, I'm handsome.
+-svisick@
+%
+Swedish fish? Fuck yes!
+-jabshire@
+%
+If you feel dirty it's gotta be peak.
+-ericy@
+%
+That looks like a baby on a spike.
+-svisick@
+%
+Well, I don't want to get sent home for HR reasons today.
+-svisick@
+%
+There's no javascript you can run that will prevent people from being idiots.
+-milesc@
+%
+That's just stupid.
+-anonymous1
+Yeah, well, that's our customer.
+-anonymous2
+%
+Would you mind coming over here and calibrating my dickmeter?
+-svisick@
+%
+When he said "synergy", I was like "I knew he was an asshole!"
+-svisick@
+%
+That's the whole reason I live. As much I can frustrate people's dreams and be an impediment. 
+-svisick@
+%
+5-6 is Happy Hour, but 4-4:45 is Tourette's Hour.
+-milesc@
+%
+No, being a dick doesn't count as a dietary restriction.
+-jabshire@
+%
+No, Spencerism would be "Hey look, I'm an asshole!"
+-acarlson@
+%
+Take that, you button fucker!
+-svisick@
+%
+That one-pager is crap.  It's only one page long.
+-jmc@
+%
+is 'hella' still hella whizzo when one perchances to rap with one's fellows?
+-dtreder@
+%
+for the record. baby ducklings look very cute, but smell very very very bad.
+-rdw@
+%
+Well, when you want to learn about irritating things, you have to talk to irritating people.
+-milesc@
+%
+Everyone else has no ethics and morals and they just think I'm uptight.
+-svisick@
+%
+You know, you can't troll yourself.
+-jmc@
+%
+If only the macros were micro.
+-svisick@
+%
+Spencer is write-only. It's all output.
+-milesc@
+%
+Man, when it's headphones time I should never second guess, and I should just leave them on.
+-milesc@
+%
+I'm going to enter a bug about you being a dick.
+-milesc@
+%
+Oh, you and your fucking test stack.  Add it to your own test stack.
+-milesc@
+%
+Well, fuck me in the goat ass!
+-milesc@
+%
+I almost tweeted when I put on my yogapants.
+-svisick@
+%
+That's crazy. Did they take crazy juice and then start working on that?
+-svisick@
+%
+Who are "Tom and Tom"? Is he talking about the Smothers Brothers?
+-svisick@
+%
+It also busts encapsulation so hard that my mom flinched.
+-milesc@
+%
+Wow, I didn't know your eyebrows went that high.
+-milesc@
+%
+We are fucking done, son! Holy balls, y'alls!
+-svisick@
+%
+That was like "Hey meet your new boss." "Testicles."
+-milesc@
+%
+This conversation leads me to the question: Where can I get a wax tadpole for my mouth-hole?
+-milesc@
+%
+I want to hear a story that makes sense, so I guess I'm SOL.
+-jabshire@
+%
+Can I try my gun on you?
+-milesc@
+I kind of wanna say yes.
+-svisick@
+%
+My bias for action is itchy.
+-aberg@
+%
+It worked great until I left.
+-jabshire@
+%
+It's not me you have to apologize to, sir. It's your soul.
+-jabshire@
+%
+Nobody really wants to touch you but dogs want to put their mouths on you.
+-mgbrown@
+%
+I talk to him daily -- mostly late at night.
+-gregnie@
+%
+What do you define leadership as?
+-mgbrown@
+I don't know.
+-pbirke@
+%
+Yeah, exactly. You don't work for the Internet Opera Database.
+-jmc@
+%
+Oh right, a hedgehog.
+-milesc@
+%
+Now you're thinking with gas.
+-jabshire@
+%
+You got your geek cred all over my shirt!
+-jabshire@
+%
+I have to hump my way up to the desk
+-svisick@
+%
+Well, I'm not too much into datastructures because I use Java.
+-anonymous interviewee
+%
+I didn't know Danes could be so sarcastic.
+-jbaer@
+%
+I shower on Tuesdays and Thursdays.
+-gregnie@
+%
+You smell like baby powder.
+-gregnie@
+%
+I'd like to be a monkey.
+-gregnie@
+%
+Yeah, I don't know where the Dane is.
+-gregnie@
+%
+You are all about awkward.
+-freitas@ to mgbrown@
+%
+When you say "fixed" do you mean like when the vet says "fixed"?
+-jabshire@
+%
+Reasonable people have a lot of options. Unreasonable people choose perl.
+-milesc@
+%
+My favorite part of linear algebra was drawing lambdas.
+-kubischk@
+%
+I'm really glad of the Internet and computers and stuff.
+-cmer@
+%
+You mentioned that you sometimes look at the weekly metrics just for fun ... [laughter].
+-mbaxter@
+%
+I don't want to hear them ripping them out of my head.
+-jlauzon@
+%
+I don't have a problem with Javascript, I have a problem with the DOM.
+-awilkins@
+Who's Dom?
+-mgbrown@
+%
+I want a keyboard where "you all suck dick" and "hi" really are right next to each other
+-jclane@
+%
+He's so... dead.  I love dead people.
+-yanno@
+%
+It was an OK accident.... I broke my collar bone.
+-milesc@
+%
+the water in my cup (i left it there since yesterday as an experiment) also tastes like fish shit.
+-michalg@
+uh.  can i taste?
+-milesc@
+%
+Yes, Jeff, I am like your cat.  Feed me code.  I am hungry for code.
+-michalg@
+%
+oh geez. Erlang?
+-jjore@
+%
+ah milesc, with you around i don't need google to create a hostile workplace environment
+-namkung@
+%
+Larry slowly took off his glasses, and said... "You know, there's more than one way to do it."
+-lepera@ coming up with some Perl slashfic
+%
+You can tell who wrote it cause it's got bad grammar and the word twitter.
+-anonymous
+%
+A: Should I add documentation?
+B: Nah, now that you've explained it, it makes total ... uh, yes. 
+-jabshire@
+%
+[name redacted] wrote it so it has less testing than our untested stuff.
+-cmer@
+%
+The point is not to make sense. The point is to use umlauts.
+-scottmo@
+%
+Unless you can boot that virt so hard it lands up on a completely
+separate rack :-)
+-behm@
+I believe that's an option using the Face Punch over TCP/IP protocol...
+-cuthbert@
+%
+I am smarter than a door.
+-santino@
+%
+This was "designed" and written in a caffeinated frenzy during the dot-com days.
+-murray@
+%
+I'm pretty pro-[name]. My interactions with him were always normal.
+-namkung@
+%
+Does he know we call you Swearin' MacLaren?
+-namkung@
+What the fuck?  That's fucking bullshit!
+-maclaren@
+%
+I can't believe I'm looking at the piece of code I'm looking at and that I actually wrote it.
+-milesc@
+%
+Do it, do it, do it, do it! What are you doing?
+-jabshire@
+%
+I think they are trying to keep him away from it now. 'Cause it's in production.
+-jmc@
+%
+Shit, I probably broke the site three times before it hit the ground.
+-milesc@
+%
+Maybe your mind is dirtier than your mouth.
+-michalg@
+%
+I'm sure Spencer can make your life easier for you.
+-michalg@
+Wait, what was that you just said?
+-lepera@
+%
+I'd never noticed Mayhem::Fixup::* before. There's a lot of it. Wow. There must surely be piles of evil in there.
+-jjore@
+%
+Wait, I wouldn't want to deny something like this. This sounds awesome.
+-lepera@
+%
+I thought you talked the hell out of that this morning.
+-lepera@
+%
+Do I have to draw you a Venn fucking diagram?
+-milesc@
+%
+This story is not getting me crispy fries and delicious sausage.
+-milesc@
+%
+Michal: Can you paste the name of the file into chat, please?
+Miles: No, die.
+Michal: I hate you all.
+-michalg@, milesc@
+%
+I don't need to pack my bags for a guilt trip. My mother packed them all for me.
+-nancydo@
+%
+Well if you're just going to use it for a mustache, I'll eat it.
+-milesc@
+%
+Let's not have a portmanteau ... "Springray!"
+-scottmo@
+%
+Q: Why did you do that?
+A: Cause no one stopped me.
+-milesc@, kerzhner@
+%
+You're the BadIdeaOrchestrator, Michal.
+-jabshire@
+%
+"Orchestrate"? Did I just say "orchestrate"? Shit!
+-milesc@
+%
+your refusal to roll over and agree with anything I say confuses and enrages me.
+-bradd@
+%
+I don't trust any of that crap.  To me, it's all just crap that is... crap.
+-michalg@
+%
+I unit test shit in my head.
+-pingon@
+%
+I'm not good with guns.
+-manasi@
+%
+No, I can not drink today.
+-fcabrera@
+What? Are you pregnant?
+-cwahlen@
+%
+That blast came from the death-stache!
+-scottmo@
+%
+What? What? He's not fixing that bug at all! Oh, my brains!
+-jabshire@
+%
+And I was like "Bitch, please! Here's the revision where you made that change."
+-jabshire@
+%
+It was only a matter of time before the SLUT whored itself out.
+-scottmo@
+%
+I was dreaming of building web applications. I used to do that.
+-milesc@
+%
+And I was like "Oh my God! Cuddle!"
+-jabshire@
+%
+What is a console?
+The texty box you write stuff in.
+Like my office.
+-yanno@, jabshire@
+%
+Oh no!  I'm a big stupidhead!
+-milesc@
+%
+... what the fuck?
+-lepera@
+ACHIEVEMENT UNLOCKED!
+-scottmo@
+%
+hork hay, eye yam haughty hire.  halfer gourd weakened
+-jaked@
+%
+The greatest trick the Devil ever pulled was convincing the world that
+secure driver didn't exist
+
+ - SecureKaiseSozeDriver
+-bhaskarm@
+%
+recurring meeting : company :: infinite loop : computer program
+-mbrubeck@
+%
+a beginning perl programmer thinks he can understand his code.  An intermediate
+perl programmer thinks he can understand others code.  An advanced perl
+programmer is told by beginners that they can understand his code
+-cmyers@
+%
+Let me explain to you how this works, then let me show you how we abused it.
+-musachyb@
+% 
+*nod*, there are always good reasons to kill Jews.
+-anonymous
+%
+COE?!? Really??
+Come on guys. What is that going to read like? "The rainier team will add a
+monitor to our metrics dashboard. That monitor will tell upper management and
+TAM how many times the rainier team has flown to the Adobe offices and like
+ninjas infiltrated their build nodes and absconded with the latest flash build.
+We will also report on how that dev version of flash runs on every m.com,
+because ninjas take no time to do anything. The rainier team will be
+requesting a slight increase in budget and head count to meet this
+requirement as we need grappling hooks and a ninja master to teach us the
+art of the dragon."
+-bernard@
+%
