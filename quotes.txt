@@ -46,14 +46,8 @@ That's bad.  That didn't work at all.
 It's fine as long as you don't load rules.
 -tvv@
 %
-Please be clear.  Are you concerned that the customers are confused, or that they are being misled?  The former is an issue.  The latter is a business decision.
--dons@
-%
 I feel like Cu Chulainn, the heroic figure out of Irish mythology, contending with the sea, armed only with a sword...
 -bobn@
-%
-There's nothing to worry about.  Preview is, in fact, broken.
--mlg@
 %
 We'll just never crash.
 -aprater@
@@ -75,9 +69,6 @@ No.  Yes.  What you're saying is not true.
 %
 Now I'm dangerous.
 -aprater@
-%
-Brazil?  What's that?
--newton@
 %
 "We" being "you".
 -ericy@
@@ -124,9 +115,6 @@ You're a lot closer to Australia [in Seattle] than you are in New York.
 This is no longer a workaround, it's now a hack.
 -tvv@
 %
-This is Amazon.  You guys have a great site.  You must know what you're doing.
--jonpr@
-%
 If I knew what I was doing, it would probably be pretty easy.
 -tvv@
 %
@@ -159,12 +147,6 @@ Sometimes you just have too many toys.
 %
 You like veggie stuff.  Like fish.
 -sousa@
-%
-We're targeting virgin customers.
--sousa@
-%
-Gurupa will save us.
--mround@
 %
 This will work until we have more than one box.
 -aprater@
@@ -259,9 +241,6 @@ It might make them cry.
 I know nothing.
 -jeremy@
 %
-We don't want to build the expectation in the customer base that they can control their destiny.
--utter@
-%
 I'm not sure if I'm helping or hurting when I talk.
 -holden@
 %
@@ -270,9 +249,6 @@ I'm not sure if I'm helping or hurting when I talk.
 %
 You can always blame the intern.
 -mlg@
-%
-I'm going to pre-pone my departure from Amazon.
--barbaran@
 %
 Between you being so relaxed and the entire EMS team being down at Pyramid, I'm beginning to wonder if I should have quit.
 -tvv@
@@ -321,9 +297,6 @@ I'm going to sign off before I go into full rant mode and start frothing at the 
 %
 The good thing is it's written in PERL, which is a very self-documenting language.
 -hanks@
-%
-We actually mean like a real person, not a customer.
--anonymous voice over conference call
 %
 . . . worked perfectly up until I realized it had a bug.
 -qhunt@
@@ -393,9 +366,6 @@ Basically we told them that they can go to hell with the software freeze.
 %
 As soon as [my manager] develops a line of code, then [his/her] sign-off is okay with me.
 -anonymous
-%
-I just hate this Amazon code.  I can't figure out how anything works.
--rcottrel@
 %
 Well, no, it'll never make sense.
 -rcottrel@
@@ -474,9 +444,6 @@ If everything else breaks, but your stuff works, your mission was successful.
 %
 I'll just be Huat all day long.
 -namkung@
-%
-[The Target contract with Amazon.com] is kinda like the Bible.
--ericy@
 %
 When in doubt, killall rvd.
 -ericy@
@@ -884,9 +851,6 @@ Things are worst.
 You have to listen!  It's a story.
 -iyer@, about the protocol of a stand-up meeting
 %
-I'm totally gonna buy that, and scale PacMed.
--Owen Hay, referring to http://www.amazon.com/o/asin/B0000X0534/
-%
 The chances that they are going to get approved to deploy to retail are basically 0%.  Or less.
 -ericy@
 %
@@ -1205,9 +1169,6 @@ I think I've given up my diet for Lent.
 So how do we switch over to hourly pay?
 -earlb@, 4:28am Sunday morning
 %
-I migrated all of Amazon.com's image infrastructure to Virginia, got 65 sev-2's, and three sev-1's, and all I got was this lousy t-shirt.
--dougb@
-%
 I'm going to write a perl script to replace half of our VPs.
 -anonymous
 %
@@ -1285,9 +1246,6 @@ Since they're not doing gurupa, they should find other ways to serve us now.
 %
 I don't like humans.
 -mlg@
-%
-Retirement, to me, is being at Amazon the rest of my life.
--dougb@
 %
 People who can't eat cheese shouldn't be allowed to reproduce.
 -mlg@
@@ -1418,9 +1376,6 @@ Hmmm, at times like this, I realize I need to stop talking.
 Our best TBHs are working on the problem.
 -mhyman@
 %
-Also, I do not care to read books written by women (I know that is called sexist but don't care for their unnecessary descriptions of everything).
--an Amazon.com customer complaining about his recommendations
-%
 I might be stupid.
 -namkung@
 %
@@ -1453,9 +1408,6 @@ You're presuming it'll ship on time without problems...and no.
 %
 I'm getting syntax errors in my brain.
 -carrino@
-%
-I wish I would stop expressing interest in job opportunities at Amazon.com
--namkung@
 %
 My magnetic personality mal-affects hard drives.
 -earlb@
@@ -1504,9 +1456,6 @@ Devo is temporarily up.
 %
 I only buy it if it actually squishes.
 -mhamm@
-%
-I'm looking for some relatively simple rules to allow an average plebe to grasp the basic bureaucratic workings of this aristocracy we call the AmazonPickingSystem (APS).
--drue@
 %
 They're all a bunch of windbags anyway.
 -jkuyken@
@@ -1627,9 +1576,6 @@ We're not going to the East side, you freak.
 %
 If the rodeo doesn't involve testicles, I'm out.
 -pohlhaut@
-%
-I just tried to launch Namkung v2, "a brand new Ju".
--namkung@
 %
 Nothing could possibly be worse than what happened in the last three weeks.
 -mikej@
@@ -1789,9 +1735,6 @@ We're going to ship this service, I don't care how many people we have to kill.
 %
 I am, to put it very mildly, stuck between a dog and a tree.
 -philliwa@
-%
-I'm sure Amazon's software looks really simple ... in some good dream someone may be having... then they wake up, the bed's wet and reality sets back in..
--naskovsk@
 %
 I have no clue what this does.  I know I put this in, but I have no idea what this does.
 -jbaer@
@@ -2349,9 +2292,6 @@ He likes to encourage us to think logically, but we've found that's a complete w
 I'm the king of things that don't mean anything.
 -plaster@
 %
-Jeremy gets uncomfortable when I refer to them as "rat bastard customers".
--anonymous
-%
 Did you just compare something in computer science to poking a bear?
 -metcalf@
 %
@@ -2393,7 +2333,7 @@ You could page me -- then there would be tears.
 Mister Chris, you're not dead.  That makes Chad happy.
 -chadw@ to metcalf@
 %
-At Amazon, I could probably come in without pants, so long as I wrote good code.
+I could probably come in without pants, so long as I wrote good code.
 -metcalf@
 %
 A stuffed animal makes the best debugging tool.
@@ -2458,9 +2398,6 @@ Ahhh, that guy can be charming when he tries.
 -bbender@ re chadw@
 %
 Did I tell you about how I started drinking whisky?
--gabrielx@
-%
-We just want to get mailed the SQL queries to hose our customers with.
 -gabrielx@
 %
 Yes, people are funny when they are on drugs.
@@ -2857,9 +2794,6 @@ I hear unicorns.
 I don't want to build it in the fucking fuck!
 -jbaer@
 %
-Amazon -- have fun, make history, slip release dates.
--metcalf@
-%
 It's not like you have the electrodes strapped to your nuts that way.
 -anonymous
 %
@@ -3239,11 +3173,6 @@ Well, I don't want to get sent home for HR reasons today.
 There's no javascript you can run that will prevent people from being idiots.
 -milesc@
 %
-That's just stupid.
--anonymous1
-Yeah, well, that's our customer.
--anonymous2
-%
 Would you mind coming over here and calibrating my dickmeter?
 -svisick@
 %
@@ -3585,7 +3514,6 @@ The greatest trick the Devil ever pulled was convincing the world that
 secure driver didn't exist
 
  - SecureKaiseSozeDriver
--bhaskarm@
 %
 recurring meeting : company :: infinite loop : computer program
 -mbrubeck@
@@ -3614,5 +3542,5 @@ art of the dragon."
 -bernard@
 %
 You have a problem, and decide to use Java.  Now you have a ProblemFactory
--random googler
+-overheard
 %
