@@ -1,3 +1,6 @@
+Look at your PATH. Now at mine. Now back at yours. Your PATH is now diamonds. Also, it contains bbcp (if envImprovement/bin is on your PATH).
+-atribble@
+%
 I'm looking for a hackier way to do this.
 -kaloyan@
 %
