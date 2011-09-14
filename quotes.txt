@@ -1,3 +1,6 @@
+I just learned what's worse than eventual consistency: NO consistency
+-srossoff
+%
 Look at your PATH. Now at mine. Now back at yours. Your PATH is now diamonds. Also, it contains bbcp (if envImprovement/bin is on your PATH).
 -atribble@
 %
