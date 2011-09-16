@@ -1,8 +1,25 @@
-#!/bin/sh
+#!/bin/zsh
 
-/usr/bin/git fetch 1>/dev/null 2>/dev/null
-/usr/bin/git merge origin/master master --ff-only 1>/dev/null 2>/dev/null
-/usr/bin/strfile /home/bernard/BOWQuotes/quotes.txt 1>/dev/null 2>/dev/null
-echo "Your Daily Quote Dosage!"
-echo ""
-/usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
+DEBUG=0
+if [[ $1 = (-|)-debug ]]
+then
+  DEBUG=1
+fi
+
+run_command()
+{
+  if [[ $DEBUG -eq 1 ]]
+  then
+    echo Running: $@
+    "$@" 
+  else
+    "$@" 1>/dev/null 2>/dev/null
+  fi
+}
+
+run_command /usr/bin/git fetch
+run_command /usr/bin/git merge origin/master master
+run_command /usr/bin/strfile /home/bernard/BOWQuotes/quotes.txt
+run_command echo "Your Daily Quote Dosage!"
+run_command echo ""
+run_command /usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
