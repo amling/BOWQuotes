@@ -20,6 +20,7 @@ run_command()
 run_command /usr/bin/git fetch
 run_command /usr/bin/git merge origin/master master
 run_command /usr/bin/strfile /home/bernard/BOWQuotes/quotes.txt
-run_command echo "Your Daily Quote Dosage!"
-run_command echo ""
-run_command /usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
+echo "Your Daily Quote Dosage!"
+echo ""
+/usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
+#git show origin/master:quotes.txt
