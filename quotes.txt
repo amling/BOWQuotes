@@ -3533,7 +3533,7 @@ Let me explain to you how this works, then let me show you how we abused it.
 -anonymous
 %
 COE?!? Really??
-Come on guys. What is that going to read like? "The rainier team will add a
+Come on guys.  What is that going to read like? "The rainier team will add a
 monitor to our metrics dashboard. That monitor will tell upper management and
 TAM how many times the rainier team has flown to the Adobe offices and like
 ninjas infiltrated their build nodes and absconded with the latest flash build.
