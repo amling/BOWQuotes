@@ -1,3 +1,6 @@
+just learned what's worse than eventual consistency: NO consistency
+-srossoff
+%
 Look at your PATH. Now at mine. Now back at yours. Your PATH is now diamonds. Also, it contains bbcp (if envImprovement/bin is on your PATH).
 -atribble@
 %
@@ -3561,6 +3564,15 @@ benbernard -  awwww yeah!
 %
 I take it back, my _least_ favorite programming language is XML
 -ckaukl
+%
+What's Juice? 
+-srossoff  
+It's like spring but in java 
+-zspencer 
+huh? 
+-srossoff 
+You know instead of XML 
+-zspencer
 %
 You need to conceal your terminal.  You decide to rot13 your problems.  Abj lbh unir znal znal ceboyrzf.
 -bernard
