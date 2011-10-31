@@ -3598,3 +3598,6 @@ I'll be all "you should have started pizza WWII and removed me from power if you
 "Nooooo.  Its a plant, guess a planet!" - Young girl
 "Bees! You're allergic to bees!" - amling
 %
+"It's better than killing two birds with one stone... it's like having one bird kill the other and then commit suicide"
+-overheard
+%
