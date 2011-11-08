@@ -3606,3 +3606,10 @@ The meeting is at 11 and then we have lunch, so I'll probably have it for you by
 So what I just heard is I'll get it tomorrow
 --kennyri
 %
+< mbrubeck> mcpusc: try "git reflog"
+<@mcpusc> (which i can't help but read as "re-flog")
+-!- mcpusc is now known as svn
+<@svn> oh git! flog me! re-flog me hard!
+<@svn> excuse me, let me rephrase that
+<@svn> oh git! flog me! re-flog me --hard!
+%
