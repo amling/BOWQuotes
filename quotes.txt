@@ -3606,12 +3606,21 @@ The meeting is at 11 and then we have lunch, so I'll probably have it for you by
 So what I just heard is I'll get it tomorrow
 --kennyri
 %
-< mbrubeck> mcpusc: try "git reflog"
-<@mcpusc> (which i can't help but read as "re-flog")
+<mbrubeck> mcpusc: try "git reflog"
+<mcpusc> (which i can't help but read as "re-flog")
 -!- mcpusc is now known as svn
-<@svn> oh git! flog me! re-flog me hard!
-<@svn> excuse me, let me rephrase that
-<@svn> oh git! flog me! re-flog me --hard!
+<svn> oh git! flog me! re-flog me hard!
+<svn> excuse me, let me rephrase that
+<svn> oh git! flog me! re-flog me --hard!
+%
+<fdavie> =(
+<fdavie> ='(
+<fdavie> ='( '    '    O
+<benbernard> is that you crying into a puddle?
+<benbernard> or your tears are making a puddle?
+<fdavie> ='(  '    '   (  (O)  )
+<benbernard> and now that puddle is a lake and making waves?
+* fdavie isn't sure how to make a lake of fire taking over gwc6 using emoticons
 %
 Wait, does this mean hard liquor on fresh?
 I strongly believe this is a direction our company should be going in
