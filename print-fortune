@@ -19,8 +19,16 @@ run_command()
 
 run_command /usr/bin/git fetch
 run_command /usr/bin/git merge origin/master master
-run_command /usr/bin/strfile /home/bernard/BOWQuotes/quotes.txt
+run_command /usr/bin/strfile $HOME/BOWQuotes/quotes.txt
+run_command /usr/bin/strfile $HOME/BOWQuotes/funny_quotes.txt
 echo "Your Daily Quote Dosage!"
 echo ""
-/usr/games/fortune /home/bernard/BOWQuotes/quotes.txt
-#git show origin/master:quotes.txt
+/usr/games/fortune $HOME/BOWQuotes/quotes.txt
+
+# echo "The funny one:"
+# echo ""
+# /usr/games/fortune $HOME/BOWQuotes/funny_quotes.txt
+# echo ""
+# echo "From the full list:"
+# echo ""
+# /usr/games/fortune $HOME/BOWQuotes/funny_quotes.txt $HOME/BOWQuotes/quotes.txt
