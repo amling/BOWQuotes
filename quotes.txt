@@ -3646,3 +3646,6 @@ context:
 < benbernard> and so I closed the discussion with something like "well, lets wait on this until we can all get something we like out of it :)"
 < benbernard> and what I meant was go die in a god damned fire you pissant territorrial fucks who couldn't recognize decent code if you caught it having sex with your mother.  Who is fat.
 %
+I'm happy that I sometimes put C++ in my Java, because it reminds me that I still have a soul
+--Markus
+%
