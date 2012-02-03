@@ -30,4 +30,4 @@ echo ""
 echo "================================================================================"
 echo "From the full list:"
 echo ""
-/usr/games/fortune $HOME/BOWQuotes/funny_quotes.txt $HOME/BOWQuotes/quotes.txt
+/usr/games/fortune $HOME/BOWQuotes/quotes.txt
