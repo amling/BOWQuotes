@@ -27,7 +27,7 @@ echo "The funny one:"
 echo ""
 /usr/games/fortune $HOME/BOWQuotes/funny_quotes.txt
 echo ""
-echo "================================================================================"
+echo ""
 echo "From the full list:"
 echo ""
 /usr/games/fortune $HOME/BOWQuotes/quotes.txt
