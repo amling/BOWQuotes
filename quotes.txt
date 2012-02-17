@@ -3652,3 +3652,6 @@ I'm happy that I sometimes put C++ in my Java, because it reminds me that I stil
 <cmrdavie> make sure you track that time ;)
 <cmrdavie> under the category "time spent carefully recrafting my rage-induced response into something resembling professional"
 %
+<amling> (profanity filled complaints about jira)
+<cmyers> Think of jira as a "protector of our culture of intense profanity at work"
+%
