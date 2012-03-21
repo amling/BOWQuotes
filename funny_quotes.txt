@@ -1,0 +1,333 @@
+Look at your PATH. Now at mine. Now back at yours. Your PATH is now diamonds. Also, it contains bbcp (if envImprovement/bin is on your PATH).
+-atribble@
+%
+I'm looking for a hackier way to do this.
+-kaloyan@
+%
+That opens up a rat's nest of worms.
+-hanks@
+%
+"We" being "you".
+-ericy@
+%
+PERL is a write-only language.
+-tvv@
+%
+Why does the ocean roar?  You'd roar too if you had crabs on your bottom.
+-random guy on the street
+%
+I'd be more than happy to work in PERL, but for the record, I hate it.
+-kasheff@
+%
+The good thing is it's written in PERL, which is a very self-documenting language.
+-hanks@
+%
+Some people develop software for the live site as well, not just for developer desktops.
+-dtreder@
+%
+As soon as [my manager] develops a line of code, then [his/her] sign-off is okay with me.
+-anonymous
+%
+I'm uncomfortable.  Can we move on to the next question?
+-Unsuccessful Interview Candidate
+%
+As long as you know the URL you want to go to, you don't need the nav.
+-namkung@
+%
+Before I came here, our website was never down.
+-ozgun@
+%
+We write code, we don't support it.
+-anonymous
+%
+I didn't actually test it.  I didn't have time. But I'm sure it's going to work.
+-ozgun@
+%
+[It's not just candy, it's justice.]  That's the sweetest candy of all.
+-jsandb@
+%
+You're not pushing anything live until I have confidence in your team's ability to build, write and deploy software.
+-anonymous to anonymous
+%
+Let's head down [to the cafeteria].  It's getting nooner and nooner the longer we wait.
+-mhewner@
+%
+You know what, I'm going to get them. I've punched that monkey a million times and I still haven't gotten any money.
+-swindsor@
+%
+He did so badly on this question that I started to wonder if there shouldn't be a vote beyond "Strong No Hire", something like "Call Security".
+-anonymous interviewer
+%
+Yeah, I said it was code complete. You know I lie.
+-anonymous
+%
+If you send in 4 rows, it'll be almost instantaneous.  If you send in 4000 rows, it'll be instantaneous times 1000.
+-cooljames@
+%
+Everything was going real smooth until the data center caught fire.
+-rizvi@
+%
+We're trying to launch it, not QA it.
+-person on concall
+%
+I tried to explain to her that she didn't answer my question, and that's why I had to hit her.
+-namkung@
+%
+I think I've given up my diet for Lent.
+-namkung@
+%
+So how do we switch over to hourly pay?
+-earlb@, 4:28am Sunday morning
+%
+I'm going to write a perl script to replace half of our VPs.
+-anonymous
+%
+The website is down.  Is that expected behavior?
+-anonymous
+%
+Boyfriends are so nice, even when they're not yours.
+-iyer@
+%
+I might agree with you, but I think they taste like tasty chemicals.
+-mhewner@
+%
+It built. I don't know what it built.
+-olke@
+%
+Oh, I replied to somebody and I didn't call them a dumbass.
+-mhewner@
+%
+That's negative calories, like cheesecake.
+-iyer@
+%
+I didn't realize how good things were before pilot, until we got pilot.
+-anonymous
+%
+[Are you going to send me the code reviewer link?]  I can send you the p4 depot commit.
+-anonymous
+%
+I could tell you a hilarious story, but let's get liquor first. Otherwise I might start crying.
+-mhewner@
+%
+If the rodeo doesn't involve testicles, I'm out.
+-pohlhaut@
+%
+Killing rvd is like playing Asteroids.  Every time you hit it, you get more back.
+-vankirk@
+%
+You're really...umm...less smart than I thought.
+-namkung@
+%
+I like to tell people I'm a programmer 'cause then they'll stop talking to you.
+-namkung@
+%
+Doing this kill -9 in the middle of the process probably isn't that safe.
+-pohlhaut@
+%
+Ok, so only your friends can touch your private parts.
+-pohlhaut@
+%
+Emacs or vi? There's a war coming.
+-mhewner@
+%
+We wanted a ninja who was extremly cool and "looking like he's about to come out of the sticker and kick your ass".  This one has a halo for some reason.  Everybody hates the halo.  It's also winking.  This does not suggest a coming ass-kicking.
+-mhewner@
+%
+Here's the thing: if you aim it at your throat, it has much better range.  I'm serious!
+-mhewner@
+%
+It's fault tolerance.  It's not a hack, it's "here's a fault, let's be tolerant."
+-mhewner@
+%
+When I said "we'll deal with that later," I meant "we'll leave this in our config forever because who cares."
+-mhewner@
+%
+Would you like shit or a sandwich?  You can have the shit right now, but the sandwich will take some time to make.
+-mhamm@
+%
+Sure, I'll take a look at that ticket... right after I handle this obidos issue I also don't care about.
+-bernard@
+%
+It's pending the resolution of the You-Jackass situation.
+-bernard@
+%
+At this company you turn water into wine and they're like, "I wish this was champagne."
+-stlandry@
+%
+The bad news is, I'm an idiot, so you should expect to be paged if I get involved in it.
+-anonymous
+%
+Some people are like Slinkies... Not really good for anything, but they still bring a smile to your face when you push them down a flight of stairs.
+-anonymous
+%
+We're not saying it's impossible.  We're saying we hate Java.
+-carrino@
+%
+Don't hate me because I'm beautiful...
+-chadw@
+Oh, that's not why we hate you Chad.
+-bbender@
+%
+I'm not sure if I should have signed up to build [tool name withheld].  Every time I mention it to someone, they say "Oh you poor bastard."
+-jbaer@
+%
+This dude sent me a mail with 'jboss' in the subject, which triggered my "not going to give this guy any real help, he's already shot himself in the foot" filter
+-andrewlu@
+%
+It could be worse than Y2K in that it's actually a problem.
+-ienders@
+%
+I don't know if it was all the drinking last night or all the Friday today.
+-mhewner@
+%
+If you guys go down there and throw up ideas all over them, they're just going to hose themselves off and walk away.
+-kennyri@
+%
+"This meeting's boring. Back to porn."
+-bernard@
+%
+Hopefully there will be a principal in the room.  Then we'll be guaranteed to get nothing done.
+-anonymous
+%
+If you search for... Who's that other guy I hate?
+-coler@
+%
+coler@: If I have to migrate [service name withheld] again, I'm migrating it to /dev/null.
+[several months pass...]
+gpare@: Cole, guess who owns [service name withheld] now!
+coler@: [name withheld]?!?
+gpare@: No, still you.
+coler@: ...I was so excited I forgot that Geoff's an [expletive deleted].
+%
+If my apartment is a significant sample, there are a lot of crazy, angry people connected to the internet.
+-kamling@
+%
+I find it is an invaluable alternative to shooting myself in the face to end my pain.
+-cmyers@
+%
+I guess I'll just have to be there at 3:30 AM to stick my strace in someone.
+-kamling@
+%
+Problem exists between morons writing mason's chair and morons writing mason's keyboard.
+-kamling@
+%
+[C]lient side caching of Rights causes it to return the already-fucked rights object which gets refucked, possibly several times ... [one possible option is to] fix [the] fucker to not doublefuck
+-kamling@
+%
+Look, I'm a Republican. I only deal in things I can touch. Except for God. He's okay.
+-claytonm@
+%
+I'm not afraid of babies because I figure if one comes at me, I can just kick it.
+-anonymous
+%
+I tend to think of myself as a one-man wolf pack.
+-svisick@
+%
+But I'd rather cuddle with you than Miles.
+-svisick@
+I don't know, that beard looks pretty soft.
+-joelee@
+%
+It also busts encapsulation so hard that my mom flinched.
+-milesc@
+%
+Well, I'm not too much into datastructures because I use Java.
+-anonymous interviewee
+%
+Reasonable people have a lot of options. Unreasonable people choose perl.
+-milesc@
+%
+I want a keyboard where "you all suck dick" and "hi" really are right next to each other
+-jclane@
+%
+Larry slowly took off his glasses, and said... "You know, there's more than one way to do it."
+-lepera@ coming up with some Perl slashfic
+%
+Unless you can boot that virt so hard it lands up on a completely
+separate rack :-)
+-behm@
+I believe that's an option using the Face Punch over TCP/IP protocol...
+-cuthbert@
+%
+I unit test shit in my head.
+-pingon@
+%
+And I was like "Bitch, please! Here's the revision where you made that change."
+-jabshire@
+%
+*nod*, there are always good reasons to kill Jews.
+-anonymous
+%
+COE?!? Really??
+Come on guys.  What is that going to read like? "The rainier team will add a
+monitor to our metrics dashboard. That monitor will tell upper management and
+TAM how many times the rainier team has flown to the Adobe offices and like
+ninjas infiltrated their build nodes and absconded with the latest flash build.
+We will also report on how that dev version of flash runs on every m.com,
+because ninjas take no time to do anything. The rainier team will be
+requesting a slight increase in budget and head count to meet this
+requirement as we need grappling hooks and a ninja master to teach us the
+art of the dragon."
+-bernard@
+%
+You have a problem, and decide to use Java.  Now you have a ProblemFactory
+-overheard
+%
+benbernard - you should bring it [a firesword] to the wedding or something
+fdavie - [the groom] we could replace all the lights on the roof with it!
+cmrodgers - [the bride] I do not want blinded guests at the wedding!
+cmrodgers - because that is what would happen
+benbernard - what? awesome blinding technology + drinks + party sounds like the best idea evar
+cmrodgers - fdavie: is it too late to un-invite certain peopre? is it rude to do so in front of their backs over IRC?
+fdavie -  no, not too late.
+fdavie -  cmrodgers [the bride]: sorry, you're not coming anymore.
+fdavie -  benbernard: paaarrtay!
+benbernard -  awwww yeah!
+ * cmrodgers is a sad panda
+%
+Apple has got their thing about their special magic version of java where
+Steve Jobs rubbed his dick on it.
+-anon1@
+His emaciated, cancer-ridden dick?
+-anon2@
+%
+this pizza/hitler thing is like comedic gold, when someone complains
+I'll be all "you should have started pizza WWII and removed me from power if you had a problem"
+"but instead you pursued a policy of apizzament"
+-amling
+%
+"It's better than killing two birds with one stone... it's like having one bird kill the other and then commit suicide"
+-overheard
+%
+<mbrubeck> mcpusc: try "git reflog"
+<mcpusc> (which i can't help but read as "re-flog")
+-!- mcpusc is now known as svn
+<svn> oh git! flog me! re-flog me hard!
+<svn> excuse me, let me rephrase that
+<svn> oh git! flog me! re-flog me --hard!
+%
+<fdavie> =(
+<fdavie> ='(
+<fdavie> ='( '    '    O
+<benbernard> is that you crying into a puddle?
+<benbernard> or your tears are making a puddle?
+<fdavie> ='(  '    '   (  (O)  )
+<benbernard> and now that puddle is a lake and making waves?
+* fdavie isn't sure how to make a lake of fire taking over gwc6 using emoticons
+%
+Wait, does this mean hard liquor on fresh?
+I strongly believe this is a direction our company should be going in
+--srossoff
+I'm drunk with excitement
+--ckaukl
+%
+< cmrdavie> benbernard: ...so, that smiley, in your latest email... It's a lie? (like the cake)
+< benbernard> many, many of my smilies are lies
+< benbernard> but that smilie was the most lying-est of them all
+context:
+< benbernard> and so I closed the discussion with something like "well, lets wait on this until we can all get something we like out of it :)"
+< benbernard> and what I meant was go die in a god damned fire you pissant territorrial fucks who couldn't recognize decent code if you caught it having sex with your mother.  Who is fat.
+%
+<cmrdavie> make sure you track that time ;)
+<cmrdavie> under the category "time spent carefully recrafting my rage-induced response into something resembling professional"
+%
