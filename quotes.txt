@@ -3655,3 +3655,5 @@ I'm happy that I sometimes put C++ in my Java, because it reminds me that I stil
 <amling> (profanity filled complaints about jira)
 <cmyers> Think of jira as a "protector of our culture of intense profanity at work"
 %
+<tzenes> every time I fire up wireshark I find out another way amazon is clown pants
+%
