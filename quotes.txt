@@ -3664,3 +3664,5 @@ I'm happy that I sometimes put C++ in my Java, because it reminds me that I stil
 %
 ben_bernard> if you want to reply to one person, you need to like pull down a menu and shit on your head to prove your commitment to the idea
 %
+ben_bernard> its like a bunch of fucking mideval gout-laden lords/c designers got together and said, man our repressive and inconsistent system of government is soo much better than banging rocks together, I'm glad we aren't assembly programmers, and then nazis/python designers was like "you missed one important step"
+%
