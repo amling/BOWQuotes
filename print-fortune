@@ -23,11 +23,11 @@ run_command /usr/bin/strfile $HOME/BOWQuotes/quotes.txt
 run_command /usr/bin/strfile $HOME/BOWQuotes/funny_quotes.txt
 echo "Your Daily Quote Dosage!"
 echo ""
-echo "The funny one:"
+echo "The first one:"
 echo ""
-/usr/games/fortune $HOME/BOWQuotes/funny_quotes.txt
+/usr/games/fortune $HOME/BOWQuotes/quotes.txt
 echo ""
 echo ""
-echo "From the full list:"
+echo "The second one:"
 echo ""
 /usr/games/fortune $HOME/BOWQuotes/quotes.txt
