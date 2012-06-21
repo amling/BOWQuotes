@@ -3674,3 +3674,6 @@ mbrubeck> They should rename 'magic' => 'ilovebackslashes' and 'nomagic' => 'ilo
 %
 mbrubeck> If Apple made cars, I can assure you, you would not be allowed to *touch* one for $2700.
 %
+I'll forward you the thread once I figure out which hieroglyph to click.
+--coworker, referring to Gmail's new "Kennedy" icons
+%
