@@ -3708,4 +3708,13 @@ problem
 shiny head could go so many places.
 23:15 < ben_bernard> so many sexual places.
 %
-
+<escalatorBot> [error notification, redacted]
+<foo> escalatorBot: yo
+<escalatorBot> sup
+<escalatorBot> [error notification update, redacted]
+<foo> escalatorBot: stfu
+<bar> wait, did you just say yo to escalator and it replied sup?
+<bar> that is so awesome
+<qux> word
+<foo> yeah, we're tight
+%
