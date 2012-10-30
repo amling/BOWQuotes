@@ -3718,3 +3718,8 @@ shiny head could go so many places.
 <qux> word
 <foo> yeah, we're tight
 %
+14:40 -!- tzenes is now known as tzenesaurus
+14:40 <@tzenesaurus> rawr
+14:51 < ben_bernard> hahaha
+14:55  * tzenesaurus bites into httpd with his massive dinosaur teeth and tears it .so from .so before wolfing down the remains of the binary
+%
